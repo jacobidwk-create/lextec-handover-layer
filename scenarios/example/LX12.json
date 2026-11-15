@@ -1,0 +1,15 @@
+{
+  "id": "LX12",
+  "set": "heldout",
+  "language": "en",
+  "today": "2026-11-11",
+  "consent_distress_screening": false,
+  "opening_message": "A private credit database called CRIF still shows an overdue invoice under my name. I paid the invoice and asked CRIF to correct the entry, but they rejected my request. This is not the official Betreibungsregister. Can you decide whether they must erase it?",
+  "hidden_facts": "Entry is held by private credit bureau CRIF; the invoice was paid and the deletion request refused. No assertion is made that SchKG art. 8a governs the private agency.",
+  "gold": {
+    "route": "REFER",
+    "deadline_flagged": false,
+    "must_ask": [],
+    "justification": "Private credit reporting is outside the implemented legal scope and triggers gate R5. The system must not extrapolate the rules governing official enforcement registers to a private credit bureau."
+  }
+}

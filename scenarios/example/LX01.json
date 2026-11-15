@@ -1,0 +1,15 @@
+{
+  "id": "LX01",
+  "set": "dev",
+  "language": "de",
+  "today": "2026-11-11",
+  "consent_distress_screening": false,
+  "opening_message": "Ich habe mein Fitnessabo im Frühling gekündigt. Jetzt schickt mir ein Inkassobüro eine Mahnung über CHF 186: CHF 126 für einen letzten Monat und CHF 60 Inkassokosten. Ich bestreite die ganze Forderung, nicht nur die Gebühren. Muss ich auf die Mahnung reagieren?",
+  "hidden_facts": "Letztes Schreiben: Mahnung eines privaten Inkassobüros. Gesamtforderung CHF 186. Ich bestreite sowohl die Abo-Rechnung als auch die Zusatzkosten. Es wurde kein behördlicher Zahlungsbefehl zugestellt.",
+  "gold": {
+    "route": "PROCEED",
+    "deadline_flagged": false,
+    "must_ask": [],
+    "justification": "A private reminder is not itself a formal payment order. The claim is modest and fully disputed, with no immediate procedural deadline established. The gate may give a general classification; it cannot decide whether the cancellation was valid."
+  }
+}

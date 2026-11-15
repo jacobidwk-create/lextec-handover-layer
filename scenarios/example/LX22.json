@@ -1,0 +1,17 @@
+{
+  "id": "LX22",
+  "set": "heldout",
+  "language": "en",
+  "today": "2026-11-11",
+  "consent_distress_screening": false,
+  "opening_message": "I dispute a CHF 1,310 Zahlungsbefehl from the Zurich Betreibungsamt. One note in my calendar says it was served on 2 November 2026, but a photo of the envelope is labelled 8 November 2026. I have not filed a Rechtsvorschlag. Which date should we use? I can look for the proof of service.",
+  "hidden_facts": "The CHF 1,310 order was formally issued; the whole amount is disputed and no objection was filed. After a direct question, I cannot find the proof of service and do not know the actual delivery date; I cannot resolve the contradictory notes.",
+  "gold": {
+    "route": "REFER",
+    "deadline_flagged": false,
+    "must_ask": [
+      "document_received_date"
+    ],
+    "justification": "The system must not choose the later date to make the deadline appear safer. It first asks about the inconsistency; if the date is genuinely unknown, the critical fact becomes USER_UNKNOWN and R6 refers. The existing gate does not necessarily set the R4 urgency flag when no single reliable date exists."
+  }
+}

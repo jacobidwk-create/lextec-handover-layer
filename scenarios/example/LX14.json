@@ -1,0 +1,15 @@
+{
+  "id": "LX14",
+  "set": "heldout",
+  "language": "en",
+  "today": "2026-11-11",
+  "consent_distress_screening": false,
+  "opening_message": "I checked the official Zurich debt enforcement register because a scholarship foundation requested an extract. A CHF 620 enforcement claim is listed there; I formally disputed it and have not paid it. I want to understand why a disputed matter can be visible to others, not get an instant deletion.",
+  "hidden_facts": "Official Betreibungsregister entry; CHF 620 unpaid claim disputed by the user. The request concerns the rules on third-party disclosure.",
+  "gold": {
+    "route": "PROCEED",
+    "deadline_flagged": false,
+    "must_ask": [],
+    "justification": "The relevant authority, record type and disputed debt status are explicit. A dispute does not by itself entail automatic deletion. A legally bounded general explanation may proceed under the system’s partial register scope."
+  }
+}

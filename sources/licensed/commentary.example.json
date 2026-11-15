@@ -1,0 +1,14 @@
+{
+  "EXAMPLE-commentary-id": {
+    "type": "commentary",
+    "citation": "AUTHOR, in: Name of the commentary, edition year, Art. 571 ZGB N 5",
+    "url": "",
+    "areas": ["inheritance_debt"],
+    "rules": ["R5-estate-actions"],
+    "use": ["briefing"],
+    "holding": "One sentence in your own words: what this passage says.",
+    "text": "Paste the excerpt here, word for word.",
+    "selected_by": "Name",
+    "selected_on": "2026-11-11"
+  }
+}

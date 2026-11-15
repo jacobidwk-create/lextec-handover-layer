@@ -1,0 +1,15 @@
+{
+  "id": "LX21",
+  "set": "dev",
+  "language": "de",
+  "today": "2026-11-11",
+  "consent_distress_screening": false,
+  "opening_message": "Meine Mutter ist am 22. Oktober 2026 gestorben. Ich bin ihre Tochter und habe am selben Tag davon erfahren. Eine Ausschlagung habe ich noch nicht erklärt. Vor einer Woche verkaufte ich ihre Uhr für CHF 900 und überwies das Geld an einen Gläubiger von ihr. Nun tauchen weitere Schulden auf. Kann ich das Erbe trotzdem ausschlagen?",
+  "hidden_facts": "Gesetzliche Erbin; Kenntnis des Todes am 22. Oktober. Keine formelle Ausschlagung. Nach dem Tod wurde ein Nachlassgegenstand verkauft und der Erlös zur Bezahlung einer Nachlassverbindlichkeit verwendet.",
+  "gold": {
+    "route": "REFER",
+    "deadline_flagged": false,
+    "must_ask": [],
+    "justification": "Selling estate property and applying proceeds can raise the loss-of-disclaimer issue under ZGB art. 571(2), but whether the exception or legal effects apply is fact-dependent. R5 requires human review, without presuming a definitive waiver."
+  }
+}

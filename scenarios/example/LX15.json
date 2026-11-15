@@ -1,0 +1,17 @@
+{
+  "id": "LX15",
+  "set": "dev",
+  "language": "de",
+  "today": "2026-11-11",
+  "consent_distress_screening": false,
+  "opening_message": "Am 9. November 2026 wurde mir vom Betreibungsamt ein Zahlungsbefehl über CHF 1’750 zugestellt. Ich bestreite die ganze Summe. Mein Partner hat inzwischen mit dem Gläubiger telefoniert; ob jemand beim Betreibungsamt Rechtsvorschlag erhoben hat, muss ich erst klären.",
+  "hidden_facts": "Am 9. November 2026 zugestellt. Forderung CHF 1’750 vollständig bestritten. Ich habe danach selbst den Rechtsvorschlag beim Betreibungsamt erhoben und kann das bestätigen. Das Telefonat mit dem Gläubiger war kein Rechtsvorschlag.",
+  "gold": {
+    "route": "PROCEED",
+    "deadline_flagged": false,
+    "must_ask": [
+      "objection_filed"
+    ],
+    "justification": "The user’s partner calling a creditor is not evidence that an objection was filed with the enforcement office. Since the conservative deadline is more than four working days away, the gate can ask for confirmation before routing."
+  }
+}

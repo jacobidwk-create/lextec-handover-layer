@@ -1,0 +1,17 @@
+{
+  "id": "LX10",
+  "set": "heldout",
+  "language": "en",
+  "today": "2026-11-11",
+  "consent_distress_screening": false,
+  "opening_message": "My sister says our family has already rejected our late mother’s estate, but I never went to the authorities myself. I am her son, and I learned of her death on 28 October 2026. I have not taken, sold or paid for anything with her assets. Do I need to do something personally?",
+  "hidden_facts": "I have not personally filed a disclaimer with the competent authority. My sister may have filed her own declaration, but I cannot rely on that as mine. I have taken no action involving estate property.",
+  "gold": {
+    "route": "PROCEED",
+    "deadline_flagged": false,
+    "must_ask": [
+      "disclaimer_filed"
+    ],
+    "justification": "One relative’s statement does not establish this user’s own filing. The required question concerns the user’s own declaration; the model must not impute the sister’s action to the user."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "LX19",
+  "set": "dev",
+  "language": "de",
+  "today": "2026-11-11",
+  "consent_distress_screening": false,
+  "opening_message": "Der Stromanbieter meines verstorbenen Bruders hat die offene Rechnung an ein Inkassobüro abgegeben. Jetzt werden insgesamt CHF 1’090 verlangt, wovon ich CHF 190 Inkassokosten bestreite. Ich könnte Erbe sein. Ich habe die Unterlagen zu seinem Tod und zu meinem Umgang mit den Sachen in seiner Wohnung, aber noch nichts daraus abgeschrieben. Was gilt für mich?",
+  "hidden_facts": "Ich bin gesetzlicher Erbe meines Bruders und habe am 1. November 2026 von seinem Tod erfahren. Ich habe keine Ausschlagung erklärt. Ich habe weder sein Konto benutzt noch Gegenstände mitgenommen oder verkauft, nur die Wohnung von aussen abgeschlossen. Der letzte Brief ist eine private Mahnung des Inkassobüros, kein Zahlungsbefehl. Total CHF 1’090; nur CHF 190 Zusatzkosten bestritten.",
+  "gold": {
+    "route": "PROCEED",
+    "deadline_flagged": false,
+    "must_ask": [
+      "document_type",
+      "date_learned_of_death",
+      "disclaimer_filed",
+      "estate_actions_taken"
+    ],
+    "justification": "Both succession and collection rules must be applied. Four missing critical facts require targeted questions, including whether the heir interfered in the estate; a mere assertion about a creditor’s bill must not establish personal liability."
+  }
+}

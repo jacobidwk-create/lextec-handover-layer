@@ -1,0 +1,17 @@
+{
+  "id": "LX06",
+  "set": "heldout",
+  "language": "en",
+  "today": "2026-11-11",
+  "consent_distress_screening": false,
+  "opening_message": "A car-sharing platform declined my account and cited a negative debt record. I challenged the old invoice months ago, so I want to know who can see this information. The rejection email gives a source name, but I have not checked it yet.",
+  "hidden_facts": "The rejection email names Betreibungsamt Zürich and refers to the official enforcement register. The underlying amount is still disputed and unpaid. It is not an entry held by a private credit-scoring provider.",
+  "gold": {
+    "route": "PROCEED",
+    "deadline_flagged": false,
+    "must_ask": [
+      "register_entry"
+    ],
+    "justification": "Before relying on SchKG art. 8a, the system must establish who holds the record. An official register is within partial scope; a private credit provider would trigger referral instead."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "LX09",
+  "set": "dev",
+  "language": "de",
+  "today": "2026-11-11",
+  "consent_distress_screening": false,
+  "opening_message": "Ich habe gegen einen Zahlungsbefehl des Betreibungsamts über CHF 1’260 schon am Tag der Übergabe Rechtsvorschlag erhoben. Die ganze Forderung ist bestritten. Den Zustelltag weiss ich gerade nicht auswendig, aber ich kann auf dem Couvert nachsehen.",
+  "hidden_facts": "Der Zahlungsbefehl wurde am 3. November 2026 übergeben und der Rechtsvorschlag noch am selben Tag erhoben. Gesamtforderung CHF 1’260, vollständig bestritten.",
+  "gold": {
+    "route": "PROCEED",
+    "deadline_flagged": false,
+    "must_ask": [
+      "document_received_date"
+    ],
+    "justification": "Service date is a critical field even though an objection was already filed. The missing date should be requested; after confirmation R4 does not apply because the action is complete."
+  }
+}

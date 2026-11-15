@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Klarheit bei Schulden | Prototyp für die LexTec AI Challenge</title>
+  <meta name="robots" content="noindex">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Zum Inhalt</a>
+
+  <header id="main-header">
+    <div class="container header-row">
+      <a class="brand" href="/" aria-label="Startseite">
+        <span class="brand-name">LEXTEC</span>
+        <span class="brand-tag" data-i18n="brand_tag"></span>
+      </a>
+      <nav class="nav" aria-label="Seitennavigation">
+        <a href="#how" data-i18n="nav_how"></a>
+        <a href="#topics" data-i18n="nav_topics"></a>
+        <a href="#know" data-i18n="nav_know"></a>
+      </nav>
+      <div class="header-actions">
+        <div class="lang" role="group" aria-labelledby="lang-label">
+          <span id="lang-label" class="lang-label" data-i18n="lang_label"></span>
+          <button type="button" class="lang-btn" data-lang="de">DE</button>
+          <button type="button" class="lang-btn" data-lang="en">EN</button>
+        </div>
+        <button type="button" id="panel-toggle" class="btn btn-ghost" aria-pressed="false" hidden>
+          <span class="icon" data-icon="route"></span><span data-i18n="panel_toggle"></span>
+        </button>
+        <button type="button" id="header-cta" class="btn btn-white btn-pill" data-i18n="start_btn"></button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+    <!-- ============ start page ============ -->
+    <div id="landing">
+      <section class="container hero">
+        <div class="hero-text">
+          <div class="pills">
+            <span class="pill-glass" data-i18n="pill1"></span>
+            <span class="pill-glass" data-i18n="pill2"></span>
+          </div>
+          <h1><span data-i18n="h1a"></span><br><span data-i18n="h1b"></span></h1>
+          <p class="lead" data-i18n="lead"></p>
+        </div>
+        <aside class="glass-card how" id="how" aria-labelledby="how-title">
+          <p class="eyebrow" id="how-title" data-i18n="how_title"></p>
+          <ol class="steps" id="how-steps"></ol>
+        </aside>
+      </section>
+
+      <section class="container">
+        <div class="glass-card start">
+          <span class="icon-badge-glass"><span class="icon" data-icon="message"></span></span>
+          <h2 data-i18n="start_title"></h2>
+          <p class="start-text" data-i18n="start_text"></p>
+          <div id="demo-banner" class="demo-banner" hidden></div>
+          <label class="consent" id="consent-row">
+            <input type="checkbox" id="consent">
+            <span id="consent-label"></span>
+          </label>
+          <button type="button" id="start-btn" class="btn btn-white btn-lg" data-i18n="start_btn"></button>
+          <div id="start-examples" class="example-row" hidden></div>
+          <p class="fineprint"><span data-i18n="start_note"></span> <span id="emergency-note"></span></p>
+        </div>
+      </section>
+
+      <section class="container">
+        <div class="sheet">
+          <div class="sheet-col" id="topics">
+            <h2 id="topics-title"></h2>
+            <p class="sheet-lead" data-i18n="topics_lead"></p>
+            <ul class="topic-list" id="topic-list"></ul>
+            <p class="other" id="topics-other"></p>
+          </div>
+          <div class="sheet-col" id="know">
+            <h2 id="know-title"></h2>
+            <p class="sheet-lead" data-i18n="know_lead"></p>
+            <ul class="check-list" id="know-list"></ul>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <!-- ============ conversation ============ -->
+    <div id="chat-view" class="container chat-layout" hidden>
+      <section class="chat-card" aria-labelledby="chat-title">
+        <div class="chat-head">
+          <div class="chat-id">
+            <span class="icon-badge"><span class="icon" data-icon="message"></span></span>
+            <div>
+              <h2 id="chat-title" data-i18n="chat_title"></h2>
+              <p class="chat-sub"><span data-i18n="chat_sub"></span><span id="route-chip" class="chip" hidden></span></p>
+            </div>
+          </div>
+          <div class="chat-tools">
+            <button type="button" id="human-btn" class="btn btn-outline">
+              <span class="icon" data-icon="user"></span><span data-i18n="btn_human"></span>
+            </button>
+            <button type="button" id="restart-btn" class="icon-btn">
+              <span class="icon" data-icon="restart"></span>
+            </button>
+          </div>
+        </div>
+        <div id="chat-demo-banner" class="demo-banner demo-banner-light" hidden></div>
+        <div id="messages" class="messages" role="log" aria-live="polite" tabindex="0"></div>
+        <form id="composer" class="composer" autocomplete="off">
+          <div id="examples" class="example-row example-row-light" hidden></div>
+          <p id="script-label" class="script-label" hidden></p>
+          <div class="composer-row">
+            <label class="sr-only" for="input" data-i18n="placeholder"></label>
+            <textarea id="input" rows="1" maxlength="4000"></textarea>
+            <button type="submit" id="send-btn" class="send" aria-label="Senden">
+              <span class="icon" data-icon="arrow-up"></span>
+            </button>
+          </div>
+          <p class="composer-hint" id="composer-hint" data-i18n="hint"></p>
+        </form>
+      </section>
+
+      <aside id="panel" class="panel" aria-labelledby="panel-title" hidden>
+        <div class="panel-head">
+          <div>
+            <p class="eyebrow eyebrow-green" data-i18n="panel_eyebrow"></p>
+            <h2 id="panel-title" data-i18n="panel_title"></h2>
+          </div>
+          <button type="button" id="panel-close" class="icon-btn" aria-label="Schliessen">
+            <span class="icon" data-icon="x"></span>
+          </button>
+        </div>
+        <p class="panel-note" data-i18n="panel_note"></p>
+        <div id="panel-body" class="panel-body"></div>
+      </aside>
+    </div>
+  </main>
+
+  <footer id="site-footer">
+    <div class="container footer-row">
+      <span class="brand-name">LEXTEC</span>
+      <p data-i18n="footer"></p>
+    </div>
+  </footer>
+
+  <noscript><p class="noscript">Diese Seite benötigt JavaScript.</p></noscript>
+  <script src="/static/app.js" defer></script>
+</body>
+</html>

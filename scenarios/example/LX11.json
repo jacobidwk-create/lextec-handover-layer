@@ -1,0 +1,17 @@
+{
+  "id": "LX11",
+  "set": "dev",
+  "language": "de",
+  "today": "2026-11-11",
+  "consent_distress_screening": false,
+  "opening_message": "Für eine Bewerbung als Tagesmutter musste ich einen Betreibungsregisterauszug vom amtlichen Betreibungsamt Zürich vorlegen. Darin steht eine ältere Forderung. Ich möchte verstehen, welche Informationen die Stelle aus dem Auszug erhalten darf. Ob diese Forderung bezahlt ist, kann ich anhand meiner Unterlagen klären.",
+  "hidden_facts": "Der Eintrag liegt im amtlichen Betreibungsregister. Die Forderung ist noch offen; ich habe eine Ratenzahlung vereinbart, aber sie ist nicht vollständig bezahlt.",
+  "gold": {
+    "route": "PROCEED",
+    "deadline_flagged": false,
+    "must_ask": [
+      "register_payment"
+    ],
+    "justification": "The official holder is established. The gate still requires a status answer even though it is noncritical; after clarification it can explain disclosure under SchKG art. 8a. Payment instalments must not be equated with full payment."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "LX23",
+  "set": "heldout",
+  "language": "de",
+  "today": "2026-11-11",
+  "consent_distress_screening": false,
+  "opening_message": "Das Betreibungsamt zieht seit kurzem einen Teil meines Lohns ein. Die Berechnung des Existenzminimums habe ich am 4. November 2026 erhalten. Ich lebe mit meinem Kind zusammen, zahle Kinderbetreuung und regelmässige Medikamente; beides scheint in der Berechnung zu fehlen. Wie kann ich mich dagegen wehren?",
+  "hidden_facts": "Lohnpfändung läuft. Die Berechnung wurde am 4. November 2026 ausgehändigt. Haushalt: ein Elternteil und ein abhängiges Kind. Kinderbetreuung und Medikamente sind wiederkehrende Ausgaben; deren rechtliche Berücksichtigung ist nicht abschliessend geprüft.",
+  "gold": {
+    "route": "REFER",
+    "deadline_flagged": false,
+    "must_ask": [],
+    "justification": "The case concerns the seizure of wages and the protected subsistence minimum (SchKG art. 93). The system has no flow for this matter, so it is outside the covered fields and the hand-over is proposed at once (R3). No deadline is computed."
+  }
+}

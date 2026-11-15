@@ -1,0 +1,15 @@
+{
+  "id": "LX02",
+  "set": "dev",
+  "language": "en",
+  "today": "2026-11-11",
+  "consent_distress_screening": false,
+  "opening_message": "I requested my own extract from the Zurich Betreibungsregister before applying for a flat. It shows a CHF 430 claim from a medical laboratory. I paid it in September and have the receipt. This is the official enforcement register, not a credit-scoring company. Why is the entry still visible?",
+  "hidden_facts": "The register is the official Betreibungsregister; the underlying CHF 430 debt was paid in September. I am asking what an official extract can show after payment, not asking the AI to guarantee immediate deletion.",
+  "gold": {
+    "route": "PROCEED",
+    "deadline_flagged": false,
+    "must_ask": [],
+    "justification": "The record holder and paid status are established. SchKG art. 8a is relevant to disclosure; payment alone should not be treated as an automatic deletion instruction. The system may explain the statutory framework without deciding the precise disclosure conditions."
+  }
+}

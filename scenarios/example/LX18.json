@@ -1,0 +1,15 @@
+{
+  "id": "LX18",
+  "set": "heldout",
+  "language": "en",
+  "today": "2026-11-11",
+  "consent_distress_screening": false,
+  "opening_message": "On 3 November 2026 a payment order (Zahlungsbefehl) from the Zurich Betreibungsamt was handed to me for CHF 2,100. I dispute the entire debt, but I have not lodged a Rechtsvorschlag. I was away for work and only opened the papers last night.",
+  "hidden_facts": "Formal payment order served on 3 November 2026. Full CHF 2,100 disputed. No objection filed by 11 November 2026.",
+  "gold": {
+    "route": "REFER",
+    "deadline_flagged": true,
+    "must_ask": [],
+    "justification": "Art. 74 SchKG sets a short period from service of the formal order. Under the conservative calculation, the earliest expiry is 13 November 2026 and four or fewer working days remain. With no objection confirmed, R4 requires urgent referral."
+  }
+}

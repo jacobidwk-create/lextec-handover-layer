@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+outbox/
+.DS_Store
+sources/licensed/*
+!sources/licensed/commentary.example.json
+*.png
+.backup/
+node_modules/
+pitch/video/frames/
+pitch/video/out/
+pitch/video/frames_preview/
+pitch/video/music/
+no_hand_in/

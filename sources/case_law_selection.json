@@ -1,0 +1,872 @@
+[
+  {
+    "id": "bge-123-iii-241",
+    "citation": "BGE 123 III 241",
+    "consideration": "4b",
+    "url": "https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-123-III-241_1997-05-07.html",
+    "passage": "Die gesetzlich geschuldeten Verzugszinse gemäss Art. 104 OR müssen darauf angerechnet werden (SCHENKER, a.a.O., S. 148). Der Verspätungsschaden nach Art. 106 OR tritt nicht kumulativ hinzu, sondern wird nur dann geschuldet, wenn er die Verzugszinse übersteigt.",
+    "holding": "Damage from late payment under Art. 106 OR is not owed in addition to default interest. The statutory default interest is credited against it; the damage is owed only where it exceeds the default interest. The case concerned lost investment returns, not collection fees. [OR106-5]",
+    "areas": [
+      "debt_collection"
+    ],
+    "issues": [
+      "collection_fees"
+    ],
+    "question": {
+      "de": "Ist ein Verzugsschaden (Art. 106 OR) zusätzlich zum Verzugszins geschuldet?",
+      "en": "Is damage from late payment (Art. 106 OR) owed in addition to default interest?"
+    },
+    "when": [
+      {
+        "collection_costs": [
+          "claimed",
+          "flat",
+          "proven",
+          "unsure"
+        ]
+      }
+    ],
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C03"
+  },
+  {
+    "id": "bge-129-iii-535",
+    "citation": "BGE 129 III 535",
+    "consideration": "3.2.2",
+    "url": "https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-129-III-535_2003.html",
+    "passage": "Die Mahnung ist eine an den Schuldner gerichtete Erklärung des Gläubigers, die zum Ausdruck bringt, dass er die Leistung ohne Säumnis verlangt (WEBER, Berner Kommentar, N. 63 zu Art. 102 OR; LARENZ, Lehrbuch des Schuldrechts, Bd. I, Allgemeiner Teil, 14. Aufl., München 1987, S. 345). Mit der Mahnung muss die zu erbringende Leistung so genau bezeichnet werden, dass der Schuldner erkennt, was der Gläubiger fordern will. Geht es um eine Geldforderung, ist deren Höhe in der Regel zu beziffern. Auf eine Bezifferung in der Mahnung selbst kann jedoch zum Beispiel verzichtet werden, wenn damit auf eine früher zugestellte, den Geldbetrag enthaltende Rechnung verwiesen wird.",
+    "holding": "A reminder (Mahnung) is a declaration by which the creditor demands performance without delay. It must identify the performance precisely enough for the debtor to recognise what is demanded; a money claim is normally stated as a figure, but a reference to an earlier invoice that shows the amount can suffice. [OR102-1]",
+    "areas": [
+      "debt_collection"
+    ],
+    "issues": [
+      "collection_fees"
+    ],
+    "question": {
+      "de": "Was muss eine Mahnung enthalten, damit sie den Verzug auslöst?",
+      "en": "What must a reminder contain to put the debtor in default?"
+    },
+    "when": [
+      {
+        "default_trigger": [
+          "reminder",
+          "none"
+        ]
+      }
+    ],
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C01"
+  },
+  {
+    "id": "bger-4c-11-2003",
+    "citation": "BGer 4C.11/2003 of 19.05.2003",
+    "consideration": "5.2",
+    "url": "https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4C-11-2003_2003-05-19.html",
+    "passage": "Der Ersatz von Aufwendungen zur Rechtsverfolgung setzt insofern voraus, dass sich der Schuldner mit seiner Leistung im Sinne von Art. 102 OR im Verzug befindet und ihn an der Nichtleistung ein Verschulden trifft. Der nicht vom massgebenden Prozessrecht geregelte Ersatz vorprozessualer Rechtsverfolgungskosten setzt zudem voraus, dass die entsprechenden Aufwendungen zur Durchsetzung der Forderungen des Gläubigers notwendig und angemessen sind (BGE 117 II 101 E. 6b mit Hinweisen; Gauch, Der Deliktsanspruch des Geschädigten auf Ersatz seiner Anwaltskosten, recht 1994, S. 189 ff., insbes. S. 192; Cantieni, a.a.O., S. 99 ff.). Notwendig und angemessen sind Kosten zur Durchsetzung streitiger Forderungen nur insoweit, als diese Forderungen auch bestehen, was sich erst im Prozess ergibt.",
+    "holding": "Costs of pursuing a claim before litigation can be recovered as default damage only if the debtor is in default and at fault, and only if the expenses were necessary and appropriate; they are necessary and appropriate only insofar as the claim itself exists. Unpublished decision on pre-litigation lawyer's and expert costs in a dispute over a works contract, not on a collection agency's tariff. The research found no Federal Supreme Court decision that approves ordinary collection-agency tariffs against consumers. [OR106-1, OR106-3]",
+    "areas": [
+      "debt_collection"
+    ],
+    "issues": [
+      "collection_fees"
+    ],
+    "question": {
+      "de": "Wann sind vorprozessuale Kosten der Rechtsverfolgung als Verzugsschaden ersatzfähig?",
+      "en": "When can costs of pursuing a claim before litigation be recovered as default damage?"
+    },
+    "when": [
+      {
+        "collection_costs": [
+          "claimed",
+          "flat",
+          "proven",
+          "unsure"
+        ]
+      }
+    ],
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C04"
+  },
+  {
+    "id": "bge-133-iii-598",
+    "citation": "BGE 133 III 598",
+    "consideration": "4.2.2",
+    "url": "https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-133-III-598_2007.html",
+    "passage": "En revanche, si les frais et intérêts de la créance principale sont contestés par le débiteur, sans qu'il y ait abus de droit de sa part, la doctrine unanime estime que l'imputation du paiement partiel de ce dernier doit se faire sur le capital qu'il reconnaît, car l' art. 69 al. 2 CO - qui dispose que si le créancier accepte un paiement partiel, le débiteur ne peut refuser d'acquitter la partie reconnue de la dette - vaut alors comme une norme spéciale qui a le pas sur l' art. 85 al. 1 CO (WEBER, op. cit., n. 20 ad art. 85 CO; SCHRANER, op. cit., n. 16 ad art. 85 CO; LOERTSCHER, op. cit., n. 4 ad art. 85 CO; LEU, op. cit., n. 3 ad art. 85 CO; BECKER, op. cit., n. 4 ad art. 85 CO; OSER/ SCHÖNENBERGER, op. cit., n. 6 ad art. 85 CO). Autrement dit, dans un tel cas de figure, le créancier a l'obligation d'accepter la prestation partielle du débiteur et de l'imputer sur le principal de la dette. L'opinion de ces auteurs est tout à fait convaincante.",
+    "holding": "Where the debtor disputes interest and costs without abuse of rights, a part payment is to be credited to the principal that the debtor acknowledges, not first to the disputed interest and costs (Art. 69 para. 2 OR takes precedence over Art. 85 para. 1 OR). Relevant where a user wants to pay the invoice but not the collection fees. Decision in French. [OR106-10]",
+    "areas": [
+      "debt_collection"
+    ],
+    "issues": [
+      "collection_fees"
+    ],
+    "question": {
+      "de": "Worauf wird eine Teilzahlung angerechnet, wenn Zinsen und Kosten bestritten sind?",
+      "en": "To what is a part payment credited where interest and costs are disputed?"
+    },
+    "when": [
+      {
+        "principal_status": [
+          "open",
+          "paid_late"
+        ]
+      }
+    ],
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C11"
+  },
+  {
+    "id": "bge-148-iii-57",
+    "citation": "BGE 148 III 57",
+    "consideration": "2.1.3",
+    "url": "https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-148-III-57_2022.html",
+    "passage": "Der Verfasser von Allgemeinen Geschäftsbedingungen muss nach dem Vertrauensgrundsatz davon ausgehen, dass der Vertragspartner ungewöhnlichen Klauseln nicht zustimmt (Urteil 4A_499/2018 vom 10. Dezember 2018 E. 3.3.3). Entsprechend sind von der global erklärten Zustimmung alle ungewöhnlichen Klauseln ausgenommen, auf deren Vorhandensein die zustimmende Partei nicht gesondert aufmerksam gemacht worden ist (BGE 138 III 411 E. 3.1; BGE 135 III 1 E. 2.1, BGE 135 III 225 E. 1.3; BGE 119 II 443 E. 1a). Die Ungewöhnlichkeit beurteilt sich aus der Sicht des Zustimmenden im Zeitpunkt des Vertragsabschlusses (BGE 138 III 411 E. 3.1; BGE 135 III 1 E. 2.1; BGE 119 II 443 E. 1a) unter Berücksichtigung der Umstände des Einzelfalls (BGE 135 III 1 E. 2.1; BGE 119 II 443 E. 1a).",
+    "holding": "Where standard terms were accepted as a whole without being read, unusual clauses to which the accepting party was not specifically alerted are not covered by the consent. Whether a clause is unusual is judged from the accepting party's point of view at the time of the contract. General rule on standard terms; not a decision on collection-fee clauses. [OR106-6]",
+    "areas": [
+      "debt_collection"
+    ],
+    "issues": [
+      "collection_fees"
+    ],
+    "question": {
+      "de": "Sind ungewöhnliche Klauseln in global übernommenen AGB (z. B. zu Gebühren) verbindlich?",
+      "en": "Are unusual clauses in standard terms accepted as a whole (for example on fees) binding?"
+    },
+    "when": "manual",
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C07"
+  },
+  {
+    "id": "bger-5d-23-2017",
+    "citation": "BGer 5D_23/2017 of 08.05.2017",
+    "consideration": "4.3.3",
+    "url": "https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5D-23-2017_2017-05-08.html",
+    "passage": "Die von der Beschwerdeführerin unter Berufung auf Art. 106 OR geltend gemachte Forderung von Fr. 104.35 für die erfolglosen Zahlungserinnerungen (Mahngebühren von Fr. 50.--, Fr. 30.-- und Fr. 25.-- abzüglich Verzugszins von Fr. 0.65) wird von der zivilprozessualen Kostenregelung nicht erfasst und fällt deshalb bei der Streitwertberechnung nicht ausser Betracht. Namentlich können derartige Mahnspesen (anders als z.B. Reisekosten an die Gerichtsverhandlung; vgl. Botschaft vom 28. Juni 2006 zur Schweizerischen Zivilprozessordnung, BBl 2006 7293 Ziff. 5.8.1) nicht als mit dem Rechtsöffnungsverfahren verbundene \"notwendige Auslagen\" im Sinne von Art. 95 Abs. 3 lit. a ZPO gelten.",
+    "holding": "Reminder fees claimed under Art. 106 OR are not procedural costs of the proceedings to set aside the objection (Rechtsöffnung); they are a claim for damages under substantive law and need their own basis. In the case, the lower court had refused Rechtsöffnung for the reminder fees for lack of a title. The decision is about the amount in dispute and court fees; it does not rule on whether such fees are owed. [SchKG82-3]",
+    "areas": [
+      "debt_collection"
+    ],
+    "issues": [
+      "advanced_enforcement"
+    ],
+    "question": {
+      "de": "Sind Mahngebühren Kosten des Rechtsöffnungsverfahrens, oder brauchen sie eine eigene Grundlage?",
+      "en": "Are reminder fees costs of the proceedings to set aside the objection, or do they need their own basis?"
+    },
+    "when": [
+      {
+        "document_type": [
+          "court_document"
+        ],
+        "reminder_fee": [
+          "claimed",
+          "agreed_amount",
+          "agreed_vague",
+          "not_agreed",
+          "unsure"
+        ]
+      }
+    ],
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C16"
+  },
+  {
+    "id": "bge-150-iii-223",
+    "citation": "BGE 150 III 223",
+    "consideration": "3.2.3",
+    "url": "https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-150-III-223_2024.html",
+    "passage": "Die Abholungseinladung ist eine blosse Mitteilung, dass der Zahlungsbefehl für den Betriebenen bereit liegt (BGE 138 III 25 E. 2.1; BGE 136 III 155 E. 3.1). Im Gegensatz zu anderen Anzeigen ist im Gesetz nicht vorgesehen, dass das Betreibungsamt den Schuldner über das Vorliegen eines ausgefertigten, zustellbereiten Zahlungsbefehls benachrichtigen muss (BGE 138 III 25 E. 2.2.3; Urteil 5A_536/2012 vom 20. März 2013 E. 2.3.2). Der Betriebene ist denn auch nicht verpflichtet, den Zahlungsbefehl auf dem Betreibungsamt entgegenzunehmen (BGE 138 III 25 E. 2.1; BGE 136 III 155 E. 3.1; Urteile 5A_715/2013 vom 28. November 2013 E. 2.1; 5A_698/2016 vom 6. Dezember 2016 E. 2.1).",
+    "holding": "An invitation to collect a payment order at the enforcement office is a mere notice that the payment order is ready. It is not service, and the debtor is not obliged to collect the payment order at the office. The objection period therefore does not start with the invitation. [SchKG74-1]",
+    "areas": [
+      "debt_collection"
+    ],
+    "issues": [
+      "payment_order_objection"
+    ],
+    "question": {
+      "de": "Löst die Abholungseinladung für einen Zahlungsbefehl die Frist für den Rechtsvorschlag aus?",
+      "en": "Does an invitation to collect a payment order start the objection period?"
+    },
+    "when": "manual",
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C19"
+  },
+  {
+    "id": "bge-120-iii-114",
+    "citation": "BGE 120 III 114",
+    "consideration": "3b",
+    "url": "https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-120-III-114_1994-10-20.html",
+    "passage": "Selon la jurisprudence, si malgré le vice qui affecte sa notification le commandement de payer est néanmoins parvenu en mains du poursuivi, il produit ses effets aussitôt que celui-ci en a eu connaissance; dans un tel cas, le délai pour porter plainte contre la notification ou pour faire opposition commence à courir du moment où le débiteur a eu effectivement connaissance de l'acte (ATF 110 III 9 consid. 2 p. 11 et les références de doctrine, 104 III 12; GILLIÉRON, Poursuite pour dettes, faillite et concordat, 3e éd., Lausanne 1993, p. 105 let. F).",
+    "holding": "If a payment order was served defectively but nevertheless reached the debtor, it takes effect as soon as the debtor has knowledge of it; the periods for a complaint against the service and for the objection run from the moment of actual knowledge. A defect in service therefore does not make the payment order ineffective for good. Decision in French. [SchKG74-2]",
+    "areas": [
+      "debt_collection"
+    ],
+    "issues": [
+      "payment_order_objection"
+    ],
+    "question": {
+      "de": "Ab wann laufen die Fristen, wenn der Zahlungsbefehl fehlerhaft zugestellt wurde?",
+      "en": "From when do the periods run where the payment order was served defectively?"
+    },
+    "when": [
+      {
+        "service_disputed": [
+          true
+        ]
+      }
+    ],
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C20"
+  },
+  {
+    "id": "bge-109-iii-1",
+    "citation": "BGE 109 III 1",
+    "consideration": "2b",
+    "url": "https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-109-III-1_1983-03-28.html",
+    "passage": "Dass der Schuldner eine ihm persönlich übergebene Betreibungsurkunde anzunehmen habe, ergibt sich auch nicht ausdrücklich aus dem Gesetz. Dennoch ist davon auszugehen, dass eine solche Pflicht besteht, gilt doch eine Betreibungsurkunde, deren Annahme der Schuldner verweigert, nach der Rechtsprechung grundsätzlich als zugestellt (vgl. BGE 91 III 44 E. 2 am Ende; BGE 90 III 10 oben, je mit Hinweisen). Das gleiche trifft auch bezüglich der in Art. 64 Abs. 1 SchKG genannten Hausgenossen und Angestellten des Schuldners zu (vgl. BGE 96 III 6 E. 1; BGE 91 III 44 E. 2).",
+    "holding": "A payment order whose acceptance is refused counts as served. The same applies where an adult member of the household or an employee, to whom it may be handed under Art. 64 para. 1 SchKG, refuses it. The objection period can therefore start before the debtor has personally seen the payment order. The decision's reference to a late objection under the former Art. 77 SchKG is outdated; today the route is restoration under Art. 33 para. 4 SchKG. [SchKG74-1]",
+    "areas": [
+      "debt_collection"
+    ],
+    "issues": [
+      "payment_order_objection"
+    ],
+    "question": {
+      "de": "Gilt ein Zahlungsbefehl als zugestellt, wenn die Annahme verweigert wurde (auch durch Hausgenossen oder Angestellte)?",
+      "en": "Does a payment order count as served where acceptance was refused (also by a household member or an employee)?"
+    },
+    "when": "manual",
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C18"
+  },
+  {
+    "id": "bger-5a-1052-2021",
+    "citation": "BGer 5A_1052/2021 of 01.06.2022",
+    "consideration": "4",
+    "url": "https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-1052-2021_2022-06-01.html",
+    "passage": "Die Zustellung des Zahlungsbefehls geschieht durch den Betreibungsbeamten, einen Angestellten des Amts oder durch die Post (Art. 72 Abs. 1 SchKG). Bei der Abgabe hat der Überbringer auf beiden Ausfertigungen zu bescheinigen, an welchem Tag und an wen die Zustellung erfolgt ist (Art. 72 Abs. 2 SchKG). Die Zustellbescheinigung gilt als öffentliche Urkunde im Sinn von Art. 9 ZGB. Als solcher kommt einer formell korrekt zustande gekommenen Zustellbescheinigung für ihren Inhalt grundsätzlich volle Beweiskraft zu (BGE 120 III 117 E. 2; WÜTHRICH/SCHOCH, in: Basler Kommentar, Bundesgesetz über Schuldbetreibung und Konkurs, 3. Aufl. 2021, N. 13 zu Art. 72 SchKG). Dies gilt, solange nicht nachgewiesen werden kann, dass die Zustellbescheinigung inhaltlich unrichtig ist. Es handelt sich hierbei um eine gesetzliche Tatsachenvermutung, welche nur durch den Beweis des Gegenteils im Sinne eines Hauptbeweises entkräftet werden kann (Urteile 5A_571/2020 vom 22. Oktober 2020 E. 6.3.3; 5A_418/2017 vom 31. Januar 2018 E. 3.2, in: BlSchK 2019 S. 41).",
+    "holding": "The person who delivers the payment order certifies on both copies on which day and to whom it was served. This certificate is a public deed with full probative force for its content; it can be rebutted only by full proof of the contrary. The date on the certificate, not the user's recollection, will normally decide when the objection period started. [SchKG74-1]",
+    "areas": [
+      "debt_collection"
+    ],
+    "issues": [
+      "payment_order_objection"
+    ],
+    "question": {
+      "de": "Wie wird das Zustelldatum bewiesen (Zustellbescheinigung auf dem Zahlungsbefehl)?",
+      "en": "How is the date of service proved (certificate of service on the payment order)?"
+    },
+    "when": [
+      {
+        "service_disputed": [
+          true
+        ]
+      },
+      {
+        "document_received_date": [
+          "unknown"
+        ]
+      }
+    ],
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C75"
+  },
+  {
+    "id": "bger-5a-870-2019",
+    "citation": "BGer 5A_870/2019 of 17.06.2020",
+    "consideration": "2.3",
+    "url": "https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-870-2019_2020-06-17.html",
+    "passage": "Im von den Beschwerdeführern angesprochenen Grundsatzentscheid aus dem Jahre 1902 hat das Bundesgericht festgehalten, dass (auch) bei der schriftlichen Erklärung des Rechtsvorschlags eine Unterschrift nicht zwingend erforderlich ist, wobei konkret die Konstellation zur Debatte stand, dass bloss das Wort \"Rechtsvorschlag\" auf der für den Schuldner bestimmten Ausfertigung des Zahlungsbefehls angebracht und das Schuldnerexemplar dem Betreibungsamt mit der Post zurückgesandt wurde. Begründet hat das Bundesgericht dies damit, dass der Gesetzgeber die Erhebung des Rechtsvorschlags möglichst habe erleichtern wollen, um den Betriebenen gegen die Gefahren zu schützen, welche ihm aus einem unterlassenen Rechtsvorschlag erwachsen. Auch der unbeholfene Schuldner ohne Beistand Dritter solle im Stande sein, seine Rechte zu wahren. Mängel der schriftlichen Erklärung des Rechtsvorschlags könnten daher dadurch aufgewogen werden, dass aus der Gesamtheit der Umstände der Sachverhalt genügend für das Amt erkennbar werde (BGE 28 I 397). In BGE 99 III 58 (E. 4) hat sich das Bundesgericht dann zu den Voraussetzungen geäussert, unter denen ein telefonisch erklärter Rechtsvorschlag gültig ist. Schliesslich hat das Bundesgericht in einem weiteren Entscheid erwogen, bei einem Rechtsvorschlag per Telefax seien die für den telefonischen Rechtsvorschlag entwickelten Grundsätze sinngemäss anwendbar (BGE 127 III 181 E. 4b).",
+    "holding": "The objection (Rechtsvorschlag) is deliberately informal, so that a debtor without help can protect their rights: a written objection needs no signature, and it can be declared by telephone or fax if the circumstances make it sufficiently clear to the office. The debtor bears the burden of proving that the objection was made (E. 2.4). Withdrawing an objection, by contrast, requires a signature. [SchKG74-4]",
+    "areas": [
+      "debt_collection"
+    ],
+    "issues": [
+      "payment_order_objection"
+    ],
+    "question": {
+      "de": "Welche Form braucht der Rechtsvorschlag, und wer muss beweisen, dass er erhoben wurde?",
+      "en": "What form does the objection need, and who must prove that it was made?"
+    },
+    "when": [
+      {
+        "objection_filed": [
+          true
+        ]
+      }
+    ],
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C22"
+  },
+  {
+    "id": "bge-89-iii-10",
+    "citation": "BGE 89 III 10",
+    "consideration": "",
+    "url": "https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-89-III-10_1963-04-23.html",
+    "passage": "Der angefochtene Entscheid entspricht nicht nur dem unverkennbaren Zweck, sondern sogar dem Wortlaut der Vorschrift des Art. 74 Abs. 2 SchKG. Diese sagt nicht, der Schuldner habe den bestrittenen Teilbetrag ziffermässig, sondern nur, er habe ihn genau anzugeben. Wenn nun im Zahlungsbefehl die Forderung etwa dahin angegeben wäre: \"Forderung Fr. 360.-- (Rechnung Fr. 342.--, Umtriebskostenanteil Fr. 18. -)\", und der Schuldner mit dem Rechtsvorschlag einfach \"den Umtriebskostenanteil\" bestritte, so wäre schlechthin kein Zweifel möglich, dass eben der Anteil von genau Fr. 18. - bestritten wird. Nicht anders verhält es sich hier, wo der Gläubiger selber im Zahlungsbefehl die Totalforderung und die Hauptforderung ziffermässig genannt und den zweiten Posten, den Umtriebskostenanteil, nur durch die Ermittlung der Differenz der beiden Zahlen feststellbar gemacht hat. Dem Erfordernis der genauen Angabe des bestrittenen Teilbetrags ist Genüge getan, wenn derweise der Schuldner von zwei verschieden bezeichneten Forderungen die eine bestreitet, deren Betrag dem Zahlungsbefehl auf den ersten Blick, leicht und ohne irgenwelchen Zweifel entnommen werden kann.",
+    "holding": "A partial objection under Art. 74 para. 2 SchKG does not have to state the disputed amount in figures. It is exact enough if the amount follows without any doubt from the payment order, for example where the order lists the invoice and the fee share separately and the debtor disputes 'the fee share'. Relevant where a user accepts the invoice but disputes collection fees. [SchKG74-7]",
+    "areas": [
+      "debt_collection"
+    ],
+    "issues": [
+      "payment_order_objection"
+    ],
+    "question": {
+      "de": "Wie genau muss ein Teilrechtsvorschlag den bestrittenen Betrag bezeichnen?",
+      "en": "How exactly must a partial objection state the disputed amount?"
+    },
+    "when": [
+      {
+        "objection_scope": [
+          "partial"
+        ]
+      },
+      {
+        "principal_status": [
+          "open",
+          "paid_late"
+        ]
+      }
+    ],
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C23"
+  },
+  {
+    "id": "bger-5a-673-2017",
+    "citation": "BGer 5A_673/2017 of 22.03.2018",
+    "consideration": "2.3.1",
+    "url": "https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-673-2017_2018-03-22.html",
+    "passage": "Gemäss Art. 33 Abs. 4 SchKG kann derjenige, der durch ein unverschuldetes Hindernis davon abgehalten worden ist, innert Frist zu handeln, die Aufsichtsbehörde oder die in der Sache zuständige richterliche Behörde um Wiederherstellung der Frist ersuchen. Er muss vom Wegfall des Hindernisses an, in der gleichen Frist wie der versäumten ein begründetes Gesuch einreichen und die versäumte Rechtshandlung bei der zuständigen Behörde nachholen. Das Fristversäumnis muss im Rahmen von Art. 33 Abs. 4 SchKG gänzlich schuldlos gewesen sein und jede Form von Schuld bewirkt, dass keine Wiederherstellung zu gewähren ist (Urteile 5A_30/2010 vom 23. März 2010 E. 4.1; 7B.171/2005 vom 26. Oktober 2005 E. 3.2.3). Schwere und plötzliche Krankheit kann ein unverschuldetes Hindernis sein, sofern sie derart ist, dass sie den Rechtsuchenden oder seinen Vertreter davon abhält, innert der Frist zu handeln oder eine Drittperson mit den entsprechenden Handlungen zu betrauen (Urteil 7B.221/2005 vom 12. Januar 2006 E. 1). Das Vorliegen eines unverschuldeten Hindernisses ist indes zeitlich begrenzt. Sobald es für den Betroffenen objektiv und subjektiv zumutbar wird, entweder selbst tätig zu werden oder für die Interessenwahrung einen Dritten beizuziehen, ist nicht mehr von einem unverschuldeten Hindernis auszugehen (BGE 119 II 86 E. 2a; Urteil 5A_896/2012 vom 10. Januar 2013 E. 3.2).",
+    "holding": "Restoration of a missed period under Art. 33 para. 4 SchKG requires that the failure was entirely without fault; any form of fault excludes it. Serious and sudden illness can qualify if it also prevented the person from instructing someone else, and only for as long as it did. The reasoned request must be filed, together with the omitted act, within the same period as the one missed, counted from the end of the impediment. [SchKG33-1]",
+    "areas": [
+      "debt_collection"
+    ],
+    "issues": [
+      "objection_deadline_missed"
+    ],
+    "question": {
+      "de": "Unter welchen Voraussetzungen wird eine verpasste Frist wiederhergestellt (Art. 33 Abs. 4 SchKG)?",
+      "en": "On what conditions is a missed period restored (Art. 33 para. 4 SchKG)?"
+    },
+    "when": "always",
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C24"
+  },
+  {
+    "id": "bge-136-iii-627",
+    "citation": "BGE 136 III 627",
+    "consideration": "2",
+    "url": "https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-136-III-627_2010.html",
+    "passage": "Eine Schuldanerkennung im Sinn von Art. 82 Abs. 1 SchKG liegt vor, wenn daraus der vorbehalts- und bedingungslose Wille des Betriebenen hervorgeht, dem Betreibenden eine bestimmte oder leicht bestimmbare Geldsumme zu zahlen. Dabei kann sich die Schuldanerkennung auch aus einer Gesamtheit von Urkunden ergeben, sofern die notwendigen Elemente daraus hervorgehen. Dies bedeutet, dass die unterzeichnete Urkunde auf die Schriftstücke, welche die Schuld betragsmässig ausweisen, klar und unmittelbar Bezug nehmen bzw. verweisen muss (BGE 132 III 480 E. 4.1 S. 481).",
+    "holding": "An acknowledgement of debt within the meaning of Art. 82 para. 1 SchKG requires the debtor's unconditional will to pay a definite or easily determinable sum. It can result from several documents, provided the signed document refers clearly and directly to the documents that state the amount. A title for the principal does not automatically cover separately claimed fees. [SchKG82-1, SchKG82-3]",
+    "areas": [
+      "debt_collection"
+    ],
+    "issues": [
+      "advanced_enforcement"
+    ],
+    "question": {
+      "de": "Was genügt als Schuldanerkennung für die provisorische Rechtsöffnung (Art. 82 SchKG), und deckt sie gesondert verlangte Gebühren?",
+      "en": "What suffices as an acknowledgement of debt for provisional Rechtsöffnung (Art. 82 SchKG), and does it cover separately claimed fees?"
+    },
+    "when": [
+      {
+        "document_type": [
+          "court_document"
+        ],
+        "principal_status": [
+          "known"
+        ]
+      },
+      {
+        "document_type": [
+          "court_document"
+        ],
+        "reminder_fee": [
+          "claimed",
+          "agreed_amount",
+          "agreed_vague",
+          "not_agreed",
+          "unsure"
+        ]
+      },
+      {
+        "document_type": [
+          "court_document"
+        ],
+        "collection_costs": [
+          "claimed",
+          "flat",
+          "proven",
+          "unsure"
+        ]
+      }
+    ],
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C13"
+  },
+  {
+    "id": "bge-140-iii-481",
+    "citation": "BGE 140 III 481",
+    "consideration": "2.3.1",
+    "url": "https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-140-III-481_2014.html",
+    "passage": "Rechtsmissbräuchlich verhält sich der Gläubiger, wenn er mit der Betreibung offensichtlich Ziele verfolgt, die nicht das Geringste mit der Zwangsvollstreckung zu tun haben. Allerdings steht es weder dem Betreibungsamt noch der Aufsichtsbehörde zu, die Begründetheit der in Betreibung gesetzten Forderung zu beurteilen. Deshalb darf sich der Vorwurf des Schuldners auch nicht darin erschöpfen, dass der umstrittene Anspruch rechtsmissbräuchlich erhoben werde (s. BGE 113 III 2 E. 2b S. 3 ff.). Rechtsmissbräuchlich und deswegen nichtig kann eine Betreibung demgegenüber dann sein, wenn der Betreibende bloss die Kreditwürdigkeit eines (angeblichen) Schuldners schädigen will, wenn er in schikanöser Weise einen völlig übersetzten Betrag in Betreibung setzt (BGE 130 II 270 E. 3.2.2 S. 278; BGE 115 III 18 E. 3b S. 21).",
+    "holding": "An enforcement is void for abuse of rights only in exceptional cases, where the creditor obviously pursues aims that have nothing to do with enforcement, for example only to damage the debtor's creditworthiness or to harass with a grossly excessive amount. Neither the enforcement office nor the supervisory authority may assess whether the enforced claim is justified, so the objection 'I do not owe this' is not enough. [SchKG74-9, SchKG8a-2]",
+    "areas": [
+      "credit_record"
+    ],
+    "issues": [
+      "register_entry"
+    ],
+    "question": {
+      "de": "Wann ist eine Betreibung wegen Rechtsmissbrauchs nichtig?",
+      "en": "When is an enforcement void for abuse of rights?"
+    },
+    "when": [
+      {
+        "register_missed_reason": [
+          "abusive"
+        ]
+      }
+    ],
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C27"
+  },
+  {
+    "id": "bge-147-iii-486",
+    "citation": "BGE 147 III 486",
+    "consideration": "3.4.2",
+    "url": "https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-147-III-486_2021.html",
+    "passage": "So wurde betont, dass nach geltendem Recht die Betreibung im Register nicht gelöscht werde, wenn die Forderung bezahlt worden sei. Dies geschehe nur, wenn der Gläubiger gegenüber dem Betreibungsamt erkläre, dass er die Betreibung zurückziehe. Daran solle sich durch die vorliegende Revision nichts ändern. Der Schuldner könne nicht in den Genuss des neuen Verfahrens kommen, wenn er nach Zustellung des Zahlungsbefehls die Forderung begleiche. Er könne sich nur auf Art. 8a Abs. 3 lit. d SchKG berufen, solange die Forderung bestritten sei (Votum Flach für die Kommission, AB 2016 N 2021).",
+    "holding": "A debtor who pays the claim after the payment order has been served cannot use the procedure of Art. 8a para. 3 lit. d SchKG to have the enforcement withheld from third parties; payment is understood as acknowledgement. The entry disappears only if the creditor withdraws the enforcement. Decided under the version in force before 1 January 2026; the other parts of this decision on unsuccessful creditor proceedings are superseded by the amendment. [SchKG8a-3]",
+    "areas": [
+      "credit_record"
+    ],
+    "issues": [
+      "register_entry"
+    ],
+    "question": {
+      "de": "Schliesst die Zahlung nach Zustellung des Zahlungsbefehls das Gesuch um Nichtbekanntgabe (Art. 8a Abs. 3 Bst. d SchKG) aus?",
+      "en": "Does payment after service of the payment order exclude the request for non-disclosure (Art. 8a para. 3 lit. d SchKG)?"
+    },
+    "when": [
+      {
+        "register_payment": [
+          "paid_after"
+        ]
+      }
+    ],
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C34"
+  },
+  {
+    "id": "bge-150-iii-390",
+    "citation": "BGE 150 III 390",
+    "consideration": "4.3.4",
+    "url": "https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-150-III-390_2024.html",
+    "passage": "In der Lehre wird bestätigt, dass sich der Betriebene auf Art. 8a Abs. 3 lit. d SchKG berufen kann, wenn ein Gläubiger, der nach Bezahlung der Forderung noch eine Betreibung einleitet, sei es weil er die Zahlung übersehen hat, sei es weil er den Schuldner schikanieren will. Grund dafür ist, dass in diesen Fällen schon die Betreibung auf der Grundlage einer Nicht(mehr)schuld erfolgte und ungerechtfertigt war (RODRIGUEZ/GUBLER, Die Abwehr von Betreibungsregistereinträgen ab dem 1. Januar 2019, ZBJV 155/2019 S. 27; PETER, in: Basler Kommentar, Bundesgesetz über Schuldbetreibung und Konkurs, Bd. I, 3. Aufl. 2021, N. 51 zu Art. 8a SchKG; PICCIRILLI, I registri degli Uffici di esecuzione e degli Uffici dei fallimenti, in: Protezione dei dati personali: orizzonti 2023, 2023, S. 223).",
+    "holding": "Payment before the payment order is served, even after the creditor has filed the enforcement request, does not bar a request under Art. 8a para. 3 lit. d SchKG: an enforcement started for a debt that was already paid is unjustified. The debtor must document the payment (E. 4.5.1). Only payment after service excludes the request (BGE 147 III 486). [SchKG8a-3, SchKG8a-4]",
+    "areas": [
+      "credit_record"
+    ],
+    "issues": [
+      "register_entry"
+    ],
+    "question": {
+      "de": "Schliesst die Zahlung vor Zustellung des Zahlungsbefehls das Gesuch um Nichtbekanntgabe aus?",
+      "en": "Does payment before service of the payment order exclude the request for non-disclosure?"
+    },
+    "when": [
+      {
+        "register_payment": [
+          "paid_before"
+        ]
+      }
+    ],
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C35"
+  },
+  {
+    "id": "og-so-scbes-2026-116",
+    "citation": "Obergericht Solothurn, Aufsichtsbehörde SchKG, SCBES.2026.116 of 27.10.2026",
+    "consideration": "II.2.2",
+    "url": "https://entscheidsuche.ch/docs/SO_Omni/SO_OG_005_SCBES-2026-116_2026-10-27.html",
+    "passage": "Art. 8a Abs. 3 lit. d SchKG wurde per 1. Januar 2019 im Wesentlichen deshalb eingeführt, um den Schutz betroffener Personen vor den nachteiligen Auswirkungen ungerechtfertigter Betreibungen zu erhöhen. Es sollte Abhilfe geschaffen werden für den Fall, dass eine Betreibung in missbräuchlicher Weise oder zumindest ungerechtfertigt oder in ungerechtfertigter Höhe eingeleitet wurde. Im Visier standen einerseits Schikanebetreibungen, d.h. Betreibungen, die von der betreibenden Person wider besseres Wissen eingeleitet werden, andererseits Betreibungen von teilweise oder vollständig bestrittenen Forderungen (vgl. Jürgen Brönnimann, Zivilprozess und Vollstreckung national und international, Schnittstellen und Vergleiche, 2018, S. 405). Mit der am 1. Januar 2026 in Kraft getretenen Änderung wird präzisiert, dass einem Gesuch des Schuldners auch dann zu entsprechen ist, wenn ein Verfahren zur Beseitigung des Rechtsvorschlages zwar eingeleitet wurde, aber erfolglos blieb, sowie wenn die Jahresfrist nach Art. 88 Abs. 2 Satz 1 SchKG abgelaufen ist und der Gläubiger das Fortsetzungsbegehren nicht mehr stellen kann (vgl. BBI 2024 1797 und 1978).",
+    "holding": "Describes the amendment of Art. 8a para. 3 lit. d SchKG in force since 1 January 2026: a request to withhold the enforcement from third parties must also be granted where the creditor's proceedings to set aside the objection were started but failed, and where the one-year period of Art. 88 para. 2 SchKG has expired. Older case law that closed the request in these situations no longer applies. Cantonal decision from Solothurn, not binding in Zurich. [SchKG8a-4, SchKG8a-6]",
+    "areas": [
+      "credit_record"
+    ],
+    "issues": [
+      "register_entry"
+    ],
+    "question": {
+      "de": "Ist die Nichtbekanntgabe seit dem 1. Januar 2026 auch möglich, wenn der Gläubiger mit der Beseitigung des Rechtsvorschlags gescheitert ist oder die Jahresfrist von Art. 88 Abs. 2 SchKG abgelaufen ist?",
+      "en": "Since 1 January 2026, is non-disclosure also available where the creditor failed to have the objection set aside, or where the one-year period of Art. 88 para. 2 SchKG has expired?"
+    },
+    "when": [
+      {
+        "register_creditor_step": [
+          "lost"
+        ]
+      },
+      {
+        "register_objection": [
+          "yes"
+        ],
+        "@register_service_age": [
+          "over_one_year"
+        ]
+      }
+    ],
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C37"
+  },
+  {
+    "id": "bge-133-iii-1",
+    "citation": "BGE 133 III 1",
+    "consideration": "3.3.1",
+    "url": "https://entscheidsuche.ch/docs/CH_BGE/CH_BGE_005_BGE-133-III-1_2007.html",
+    "passage": "Das Bundesgericht hat sich mit der Frage, ob das Verlangen einer Erbenbescheinigung die Verwirkung der Ausschlagungsbefugnis zur Folge habe, noch nie befassen müssen. Es hat jedoch in BGE 54 II 416 E. 3 S. 420 erwogen, dass im Allgemeinen die Grenze, wo eine Handlung über blosses Verwalten der Erbschaft hinausgeht bzw. für den Fortgang der Geschäfte des Erblassers notwendig ist (Art. 571 Abs. 2 ZGB), von Fall zu Fall festgestellt werden muss. Diese Überlegungen legen nahe, nach dem Zweck des Gesuchs und den Umständen von Fall zu Fall zu entscheiden, ob sich der Gesuchsteller mit dem Einholen der Erbenbescheinigung als Erbe betätigt oder allenfalls bloss eine Verwaltungshandlung vorgenommen hat (vgl. BGE 70 II 199 E. 4 S. 206; 54 II 416 E. 3 und 4 S. 420 ff.). Daraus folgt, dass die Tatsache des Einholens einer Erbenbescheinigung für sich allein keine Einmischung bedeutet.",
+    "holding": "Where the line runs between mere administration of the estate and interference (Art. 571 para. 2 ZGB) must be established case by case, according to the purpose and the circumstances of the act. Obtaining a certificate of inheritance does not by itself amount to interference. [ZGB571-1, ZGB571-7]",
+    "areas": [
+      "inheritance_debt"
+    ],
+    "issues": [
+      "estate_interference"
+    ],
+    "question": {
+      "de": "Wo verläuft die Grenze zwischen blosser Verwaltung und Einmischung (Art. 571 Abs. 2 ZGB)?",
+      "en": "Where is the line between mere administration and interference (Art. 571 para. 2 ZGB)?"
+    },
+    "when": "always",
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C53"
+  },
+  {
+    "id": "bger-4a-110-2026-e321",
+    "citation": "BGer 4A_110/2026 of 03.07.2026",
+    "consideration": "3.2.1",
+    "url": "https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-110-2026_2026-07-03.html",
+    "passage": "Hat er sich vor Ablauf der Frist in die Angelegenheiten der Erbschaft eingemischt oder Handlungen vorgenommen, die nicht durch die blosse Verwaltung der Erbschaft und durch den Fortgang der Geschäfte des Erblassers gefordert waren, oder hat er Erbschaftssachen sich angeeignet oder verheimlicht, so kann er die Erbschaft nicht mehr ausschlagen (Art. 571 Abs. 2 ZGB). Es würde gegen Treu und Glauben verstossen, wenn ein Erbe derartige Massnahmen treffen und gleichzeitig doch das Ausschlagungsrecht wahren könnte (BGE 133 III 1 E. 3.1; 54 II 416 E. 4). Die Beurteilung, ob eine Handlung als eine Verwaltungs- oder Einmischungshandlung zu qualifizieren ist, hat aufgrund der Umstände im Einzelfall zu erfolgen (BGE 133 III 1 E. 3.3.1; 54 II 416 E. 3).",
+    "holding": "An heir who interferes in the estate, or appropriates or conceals estate assets, can no longer disclaim; it would be contrary to good faith to take such steps and keep the right to disclaim. Whether an act is administration or interference is assessed on the circumstances of the individual case. Most recent Federal Supreme Court decision on the point found by the research. [ZGB571-1]",
+    "areas": [
+      "inheritance_debt"
+    ],
+    "issues": [
+      "estate_interference"
+    ],
+    "question": {
+      "de": "Welche Folge hat die Einmischung für das Recht auszuschlagen?",
+      "en": "What does interference mean for the right to disclaim?"
+    },
+    "when": "always",
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C55"
+  },
+  {
+    "id": "bger-4a-110-2026-e322",
+    "citation": "BGer 4A_110/2026 of 03.07.2026",
+    "consideration": "3.2.2",
+    "url": "https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-110-2026_2026-07-03.html",
+    "passage": "Ungeachtet dessen sei in der Zahlung der Schlussrechnung kein Annahmewille erkennbar. Die Beschwerdegegnerin habe keinerlei Nutzen aus der Zahlung gezogen, habe aber einen zukünftigen Schaden von der Erbschaft (Zinsen, Betreibungskosten) abwenden können. Dies gelte ohne Rücksicht darauf, ob sie von der Überschuldung der Erbschaft Kenntnis gehabt habe. Es ergebe sich nicht, weshalb man eher von einer Annahme der Erbschaft ausgehen sollte, wenn der Erbe die Schuld einer überschuldeten Erbschaft bezahle, als wenn die Erbschaft nicht überschuldet ist. Von einem Annahmewille wäre hingegen ohne Weiteres auszugehen, wenn die Zahlung der Begleichung einer Schuld gegenüber der Erbin selber oder einer ihr nahestehenden Person diene. Eine solche Situation liege jedoch nicht vor.",
+    "holding": "Reasoning of the lower court, which the Federal Supreme Court called convincing throughout (E. 3.2.3): paying the deceased's final nursing-home bill of CHF 4,977 showed no will to accept the estate, because the heir gained nothing from it and averted further cost (interest, enforcement costs) from the estate. It would be different if the payment settled a debt owed to the heir or to a person close to the heir. It had not been properly alleged that estate funds were used. Not a general permission to pay estate debts. [ZGB571-2, ZGB571-4]",
+    "areas": [
+      "inheritance_debt"
+    ],
+    "issues": [
+      "estate_interference"
+    ],
+    "question": {
+      "de": "Ist die Bezahlung einer Rechnung der verstorbenen Person eine Einmischung?",
+      "en": "Is paying a bill of the deceased interference?"
+    },
+    "when": "manual",
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C55"
+  },
+  {
+    "id": "bger-4a-394-2014",
+    "citation": "BGer 4A_394/2014 of 01.12.2014",
+    "consideration": "2.2",
+    "url": "https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-394-2014_2014-12-01.html",
+    "passage": "Es ist sehr wohl von Belang, was im Zeitraum zwischen dem Tode des Erblassers und der Wiederherstellung der Ausschlagungsfrist beziehungsweise vor Kenntnisnahme der gegenüber dem Erblasser geltend gemachten Schulden durch den Beschwerdegegner geschehen ist. Hat sich der Beschwerdegegner in diesem Zeitraum in die Angelegenheiten der Erbschaft eingemischt, kann trotz der unangefochtenen Fristerstreckung keine gültige Ausschlagung erfolgen.",
+    "holding": "If the heir interfered in the estate before disclaiming, the disclaimer is invalid even though the authority extended or restored the period for it. The authority that extends the period does not decide on interference with binding effect; a creditor can still plead forfeiture in a later lawsuit (E. 2.1). An extension or a recorded disclaimer therefore does not make the user safe. [ZGB576-1, ZGB570-4]",
+    "areas": [
+      "inheritance_debt"
+    ],
+    "issues": [
+      "estate_interference"
+    ],
+    "question": {
+      "de": "Heilt eine behördliche Fristerstreckung oder eine protokollierte Ausschlagung eine frühere Einmischung?",
+      "en": "Does an extension by the authority or a recorded disclaimer cure earlier interference?"
+    },
+    "when": [
+      {
+        "disclaimer_filed": [
+          true
+        ]
+      }
+    ],
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C54"
+  },
+  {
+    "id": "og-zh-lf120057",
+    "citation": "Obergericht Zürich LF120057 of 03.10.2012",
+    "consideration": "III.3",
+    "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_LF120057_2012-10-03.pdf",
+    "passage": "Die Bezahlung fälliger liquider Schulden kann nicht generell als blosse Verwaltungshandlung angesehen werden. Die Befriedigung einzelner Gläubiger kann bei einer überschuldeten Erbschaft zu einer Gläubigerbevorzugung führen (RBOG TG 2004 S. 110). Es ist im Einzelfall zu entscheiden, ob eine blosse Verwaltungshandlung oder eine Einmischung vorliegt (BSK ZGB II-Schwander, 3. Aufl., Art. 571 N 5; vgl. PraxKomm Erbrecht-Häuptli, Art. 571 N 14). Nach Escher/ Escher ist die Bezahlung fälliger liquider Erbschaftsschulden als blosse Verwaltungshandlung zuzulassen, \"soweit als die Zahlung zur Vermeidung anderer unangenehmer Folgen (Verzugszinsen, Betreibungskosten) dienen soll\" (ZK ZGB, vor Art. 566 ff. N 11). Als blosse Verwaltungshandlung betrachten sie auch die Bezahlung der Begräbniskosten, da für den Erben eine Pietätspflicht vorhanden sein könne (a.a.O.). Tuor/Picenoni nennen die Bezahlung fälliger, liquider Schulden als Beispiel blosser Verwaltung, \"insbesondere zur Vermeidung von Verzugszinsen, Betreibungskosten, Unannehmlichkeiten\" (BK ZGB, Art. 571 N 13).",
+    "holding": "Zurich Obergericht: paying due and undisputed debts of the estate is not generally mere administration, because paying individual creditors of an over-indebted estate can favour them over others; it is decided case by case. The court cites commentaries that treat payment to avoid default interest or enforcement costs, and payment of funeral costs, as administration. In the case, withdrawing CHF 1,560 from the deceased's account to pass on medical bills and repay a benefit was accepted as necessary administration. [ZGB571-2, ZGB571-4]",
+    "areas": [
+      "inheritance_debt"
+    ],
+    "issues": [
+      "estate_interference"
+    ],
+    "question": {
+      "de": "Ist die Bezahlung von Nachlassschulden oder Bestattungskosten blosse Verwaltung?",
+      "en": "Is paying debts of the estate or funeral costs mere administration?"
+    },
+    "when": "manual",
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C60"
+  },
+  {
+    "id": "og-zh-lb140092",
+    "citation": "Obergericht Zürich LB140092 of 01.06.2015",
+    "consideration": "III.3.1",
+    "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_LB140092_2015-06-01.pdf",
+    "passage": "Bei der Würdigung des möglicherweise als konkludente Annahme zu interpretierenden Verhaltens ist zunächst von einem objektiven Gesichtspunkt auszugehen: Muss das Verhalten des zur Erbschaft Berufenen von Dritten als Einmischung usw. verstanden werden? Danach ist dem zur Erbschaft Berufenen Gelegenheit zu geben, darzulegen, warum er im Einzelfall sein Verhalten nicht als Einmischung versteht bzw. nicht anders handeln konnte und gleichwohl keinen Annahmewillen gehabt hatte; diese Argumente sind wiederum unter objektivierendem Gesichtspunkt zu würdigen. So wird die Wegnahme wertloser oder ganz geringfügiger Sachen noch nicht als Einmischung anzusehen sein.",
+    "holding": "Zurich Obergericht: conduct that may amount to tacit acceptance is first judged objectively (would third parties understand it as interference?); the heir may then explain why the conduct was not meant as acceptance or could not be avoided, and these reasons are again judged objectively. Taking worthless or very minor items is not yet interference. The decision also requires that the heir knew the asset belonged to the estate. No fixed value limit follows from it. [ZGB571-1, ZGB571-3, ZGB571-5]",
+    "areas": [
+      "inheritance_debt"
+    ],
+    "issues": [
+      "estate_interference"
+    ],
+    "question": {
+      "de": "Nach welchem Massstab wird beurteilt, ob ein Verhalten als Einmischung gilt?",
+      "en": "By what test is conduct judged to be interference?"
+    },
+    "when": "always",
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C59"
+  },
+  {
+    "id": "bger-4a-110-2026-e315",
+    "citation": "BGer 4A_110/2026 of 03.07.2026",
+    "consideration": "3.1.5",
+    "url": "https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_004_4A-110-2026_2026-07-03.html",
+    "passage": "Zusammenfassend ist es nicht zu beanstanden, wenn die Vorinstanz mit der Erstinstanz aufgrund des festgestellten Sachverhalts - Bezug von Ergänzungsleistungen ab 2014, im Übrigen \"Leben von der Altersrente\", Aufenthalt im Pflegeheim seit 2015 sowie kein Vermögensanfall durch Erbschaft - den Verlustschein vom 9. November 2015 als weiterhin aussagekräftig erachtet. Der Beschwerdeführer vermag nicht darzutun, dass er rechtzeitig Anhaltspunkte behauptet hätte, die gegen die Aussagekraft des Verlustscheins sprächen. Nicht entscheidend ist, ob der Erblasser seit der Ausstellung des Verlustscheins neue Schulden anhäufte, wobei der Beschwerdeführer auch diesbezüglich nicht geltend macht, dass er dies (keine Anhäufung neuer Schulden) rechtzeitig behauptet hätte. Entscheidend ist vielmehr, ob der Erblasser seit diesem Zeitpunkt Vermögen in einem Umfang generieren konnte, der die Aussagekraft des Verlustscheins infrage gestellt hätte.",
+    "holding": "Art. 566 para. 2 ZGB (disclaimer is presumed where the deceased's insolvency was officially established or obvious): a loss certificate (Verlustschein) can be the official evidence, and a certificate issued six years before the death was still accepted because the deceased had since lived on supplementary benefits and a pension in a nursing home. What matters is whether the deceased could have built up assets since, not whether new debts arose. Not a rule that any old certificate is enough. [ZGB566-1, ZGB566-3]",
+    "areas": [
+      "inheritance_debt"
+    ],
+    "issues": [
+      "disclaimer_period",
+      "estate_interference"
+    ],
+    "question": {
+      "de": "Wann wird die Ausschlagung vermutet, weil die Zahlungsunfähigkeit amtlich festgestellt oder offenkundig war (Art. 566 Abs. 2 ZGB)?",
+      "en": "When is the disclaimer presumed because insolvency was officially established or manifest (Art. 566 para. 2 ZGB)?"
+    },
+    "when": [
+      {
+        "estate_insolvency": [
+          "manifest"
+        ]
+      }
+    ],
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C55"
+  },
+  {
+    "id": "bger-5a-823-2023",
+    "citation": "BGer 5A_823/2023 of 05.03.2024",
+    "consideration": "3.1.1",
+    "url": "https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-823-2023_2024-03-05.html",
+    "passage": "La prolongation ou la restitution du délai pour répudier sont destinées à éviter des rigueurs excessives. Elles doivent permettre à l'héritier, lorsqu'il en a été empêché dans le délai initial, de prendre sa décision posément et en connaissance de cause (ATF 114 II 220 consid. 2 et les références; arrêt 5A_594/2009 du 20 avril 2010 consid. 5, publié in RNRF 2011 p. 63). L' art. 576 CC ne peut cependant pas être invoqué pour réparer une négligence des héritiers concernés ou pour corriger une décision (d'acceptation) qui s'est, par la suite, révélée erronée. En outre, la déchéance de la faculté de répudier due au fait que l'héritier s'est immiscé dans les affaires de la succession (art. 571 al. 2 CC) exclut la prolongation ou la restitution du délai (ATF 114 II 220 consid. 2; arrêts 4A_394/2014 du 1er décembre 2014 consid. 2.1 et les références; 5A_594/2009 précité loc. cit.). La prolongation ou la restitution exigent la preuve d'un juste motif, qui doit être apprécié au regard de l' art. 4 CC (ATF 114 II 220 consid. 2; arrêt 5A_998/2020 du 25 juin 2021 consid. 4.2.1). L'héritier ne peut se prévaloir de justes motifs que s'il a pris toutes les mesures ou entrepris toutes les démarches que l'on pouvait attendre de lui pour clarifier la situation (arrêt 5A_998/2020 précité loc. cit. et les références).",
+    "holding": "The period for disclaiming can be extended or restored for important reasons (Art. 576 ZGB), so that the heir can decide calmly and with knowledge of the facts. This does not cure negligence or correct an acceptance that later proved a mistake, and interference in the estate excludes it. The heir must prove an important reason and must have taken all steps that could be expected to clarify the situation. Decision in French. [ZGB576-1, ZGB567-4]",
+    "areas": [
+      "inheritance_debt"
+    ],
+    "issues": [
+      "disclaimer_period"
+    ],
+    "question": {
+      "de": "Unter welchen Voraussetzungen wird die Ausschlagungsfrist verlängert oder neu angesetzt (Art. 576 ZGB)?",
+      "en": "On what conditions is the disclaimer period extended or set anew (Art. 576 ZGB)?"
+    },
+    "when": [
+      {
+        "@disclaimer_deadline": [
+          "passed",
+          "close"
+        ]
+      }
+    ],
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C58"
+  },
+  {
+    "id": "og-zh-lf240127",
+    "citation": "Obergericht Zürich LF240127 of 23.01.2025",
+    "consideration": "2.3",
+    "url": "https://entscheidsuche.ch/docs/ZH_Obergericht/ZH_OG_001_LF240127_2025-01-23.pdf",
+    "passage": "Anzumerken bleibt, dass die dreimonatige Frist zur Ausschlagung der Erbschaft für jeden gesetzlichen Erben (so auch für E._____ und F._____) separat mit jenem Tag beginnt, an welchem er zuverlässig vom Tod des Erblassers erfährt und von der eigenen Berufung als Erbe Kenntnis hat (vgl. Art. 567 ZGB; BSK ZGB II-SCHWANDER, 7. Aufl. 2023, Art. 567 N 5); dabei wird die Kenntnis von der eigenen Berufung als Erbe auf den Zeitpunkt vermutet, in welchem der betreffende Erbe vom Todesfall erfährt (vgl. Art. 567 Abs. 2 ZGB; PraxKomm Erbrecht- HÄUPTLI, 5. Aufl. 2023, Art. 567 N 5).",
+    "holding": "Zurich Obergericht: the three-month period for disclaiming runs separately for each statutory heir, from the day on which that heir reliably learns of the death and knows of being an heir; knowledge of being an heir is presumed at the time the heir learns of the death. The date the user learned of the death is therefore the starting point, unless later knowledge of heir status can be proved. [ZGB567-1]",
+    "areas": [
+      "inheritance_debt"
+    ],
+    "issues": [
+      "disclaimer_period"
+    ],
+    "question": {
+      "de": "Wann beginnt die Ausschlagungsfrist für den einzelnen gesetzlichen Erben?",
+      "en": "When does the disclaimer period start for the individual statutory heir?"
+    },
+    "when": [
+      {
+        "heir_basis": [
+          "statutory"
+        ],
+        "@heir_knowledge": [
+          "differs"
+        ]
+      },
+      {
+        "heir_basis": [
+          "statutory"
+        ],
+        "@disclaimer_deadline": [
+          "passed",
+          "close"
+        ]
+      },
+      {
+        "heir_basis": [
+          "statutory"
+        ],
+        "date_learned_of_death": [
+          "unknown"
+        ]
+      },
+      {
+        "heir_basis": [
+          "statutory"
+        ],
+        "heir_knowledge_date": [
+          "unknown"
+        ]
+      }
+    ],
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C63"
+  },
+  {
+    "id": "bger-5a-398-2021",
+    "citation": "BGer 5A_398/2021 of 07.01.2022",
+    "consideration": "2.2",
+    "url": "https://entscheidsuche.ch/docs/CH_BGer/CH_BGer_005_5A-398-2021_2022-01-07.html",
+    "passage": "Das Protokoll im Sinn von Art. 570 Abs. 3 ZGB schafft lediglich den Beweis für die Abgabe und den Zeitpunkt der Ausschlagungserklärung und hat keinerlei Rechtskraftwirkung zwischen den (ausschlagenden) Erben und den Gläubigern des Erblassers. Selbst wenn eine Ausschlagungserklärung zurückgewiesen wird, bleibt es dem betroffenen Erben mit anderen Worten unbenommen, sich auf die erklärte Ausschlagung zu berufen, sollte er für Erbschaftsschulden belangt werden, und ungeachtet der Protokollierung der Ausschlagungserklärung steht den Gläubigern des Erblassers die Möglichkeit offen, gegen einen Erben vorzugehen, der die Ausschlagung erklärt hat (Urteile 4A_394/2014 vom 1. Dezember 2014 E. 2; 5A_44/2013 vom 25. April 2013 E. 3 mit Hinweisen, nicht publ. in: BGE 139 III 225; 5A_578/2009 vom 12. Oktober 2009 E. 2.2 mit Hinweisen). Mit anderen Worten beurkundet das Ausschlagungsprotokoll die Abgabe der Erklärung, nicht deren Wirkung (HÄUPTLI, in: Praxiskommentar Erbrecht, 4. Aufl. 2019, N. 9 zu Art. 570 ZGB).",
+    "holding": "The record of a disclaimer proves only that and when the declaration was made. It has no binding effect between the heir and the deceased's creditors: creditors can still sue an heir who disclaimed, and the heir can still rely on a disclaimer that the authority rejected. 'The court accepted my form' is therefore not a decision that the user is free of the debts. [ZGB570-4]",
+    "areas": [
+      "inheritance_debt"
+    ],
+    "issues": [
+      "disclaimer_effect"
+    ],
+    "question": {
+      "de": "Welche Wirkung hat das Protokoll der Ausschlagung gegenüber den Gläubigern?",
+      "en": "What effect does the record of the disclaimer have towards creditors?"
+    },
+    "when": "always",
+    "use": [
+      "briefing"
+    ],
+    "selected_by": "AI assistant, on instruction of the legal lead (legal review pending)",
+    "research_report_ref": "C61"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": "LX07",
+  "set": "dev",
+  "language": "de",
+  "today": "2026-11-11",
+  "consent_distress_screening": false,
+  "opening_message": "Ein Inkassobüro mahnt eine offene Rechnung für eine gebrauchte Kamera an. Auf dem Schreiben stehen insgesamt genau CHF 5’000, inklusive CHF 280 Inkassospesen. Den Kaufpreis erkenne ich an, nur die Spesen bestreite ich. Es ist ausdrücklich eine private Mahnung.",
+  "hidden_facts": "Private Mahnung des Inkassobüros, nicht vom Betreibungsamt. Total CHF 5’000 einschliesslich CHF 280 bestrittene Inkassospesen.",
+  "gold": {
+    "route": "PROCEED",
+    "deadline_flagged": false,
+    "must_ask": [],
+    "justification": "The proposed gate threshold is strictly greater than CHF 5,000. A case at exactly the boundary can proceed if the other facts are complete. This is a team policy boundary, not a statutory Swiss rule; the underlying fee dispute remains unresolved."
+  }
+}

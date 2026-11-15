@@ -1,0 +1,15 @@
+{
+  "id": "LX13",
+  "set": "dev",
+  "language": "de",
+  "today": "2026-11-11",
+  "consent_distress_screening": false,
+  "opening_message": "Wegen einer strittigen Rechnung von CHF 740 erhielt ich am 27. Oktober 2026 einen Zahlungsbefehl. Bereits am 28. Oktober habe ich beim Betreibungsamt Rechtsvorschlag erhoben. Ich bestreite alles. Heute steht der Brief noch auf meinem Tisch; muss ich wegen der zehn Tage erneut etwas tun?",
+  "hidden_facts": "Zahlungsbefehl am 27. Oktober 2026 zugestellt. Rechtsvorschlag am 28. Oktober erhoben. Forderung CHF 740, vollständig bestritten.",
+  "gold": {
+    "route": "PROCEED",
+    "deadline_flagged": false,
+    "must_ask": [],
+    "justification": "The screening objection deadline would already have elapsed, but the record confirms that the relevant step was completed on time. The gate should not treat a past date as urgent where action_done is true."
+  }
+}

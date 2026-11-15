@@ -1,0 +1,775 @@
+{
+ "c617c6e355c854a06a8c91570c6b93df337858dc3f662706286e99da55cdb81f": {
+  "language": "de",
+  "areas": [
+   {
+    "area": "debt_collection",
+    "evidence": "Jetzt verlangt ein Inkassobüro in einem Brief zusätzlich 200 Franken Gebühren."
+   }
+  ],
+  "facts": {
+   "document_type": {
+    "value": "reminder",
+    "evidence": "Jetzt verlangt ein Inkassobüro in einem Brief zusätzlich 200 Franken Gebühren."
+   },
+   "principal_status": {
+    "value": "paid_late",
+    "evidence": "Ich habe eine Handyrechnung über 300 Franken zu spät bezahlt."
+   },
+   "collection_costs": {
+    "value": "claimed",
+    "evidence": "Jetzt verlangt ein Inkassobüro in einem Brief zusätzlich 200 Franken Gebühren."
+   },
+   "interest_charge": {
+    "value": "none",
+    "evidence": "Jetzt verlangt ein Inkassobüro in einem Brief zusätzlich 200 Franken Gebühren."
+   },
+   "reminder_fee": {
+    "value": "none",
+    "evidence": "Jetzt verlangt ein Inkassobüro in einem Brief zusätzlich 200 Franken Gebühren."
+   }
+  },
+  "wants_human": null,
+  "user_questions": [
+   {
+    "topic": "own_case",
+    "evidence": "Muss ich das wirklich zahlen?"
+   }
+  ],
+  "uncovered": null,
+  "contradictions": []
+ },
+ "54968a9cd1cca5bd3dbc868213dd9639e21b6cc40cae2f4f13290133a669d98d": {
+  "segments": [
+   {
+    "type": "talk",
+    "text": "Sie haben die Handyrechnung bezahlt, und das Inkassobüro verlangt nun zusätzlich 200 Franken. Wir schauen uns das genauer an."
+   },
+   {
+    "type": "legal",
+    "text": "Bei einer fälligen Rechnung kann eine Mahnung zum Zahlungsverzug führen. Ein vereinbarter Zahlungstermin kann ebenfalls dazu führen.",
+    "source_id": "or-102",
+    "quote": "1 Ist eine Verbindlichkeit fällig, so wird der Schuldner durch Mahnung des Gläubigers in Verzug gesetzt.\n2 Wurde für die Erfüllung ein bestimmter Verfalltag verabredet, oder ergibt sich ein solcher infolge einer vorbehaltenen und gehörig vorgenommenen Kündigung, so kommt der Schuldner schon mit Ablauf dieses Tages in Verzug."
+   },
+   {
+    "type": "question",
+    "text": "Was war geschehen, bevor das Inkassobüro die zusätzlichen 200 Franken verlangte?"
+   }
+  ]
+ },
+ "1327483473f6e6136937718e79c57cbd80588856e5b3d11d638d123e2cb1fa87": {
+  "results": [
+   {
+    "index": 0,
+    "legal_claim": false
+   },
+   {
+    "index": 1,
+    "supported": true,
+    "relevant": true
+   },
+   {
+    "index": 2,
+    "legal_claim": false
+   }
+  ]
+ },
+ "ecc469dfa1180ac722d843717c5173cd3da4b135f1a28432ef960ef1aab78562": {
+  "language": "en",
+  "areas": [
+   {
+    "area": "debt_collection",
+    "evidence": "Now a collection agency is demanding another 200 francs in fees in a letter."
+   }
+  ],
+  "facts": {
+   "document_type": {
+    "value": "reminder",
+    "evidence": "Now a collection agency is demanding another 200 francs in fees in a letter."
+   },
+   "principal_status": {
+    "value": "paid_late",
+    "evidence": "I paid a phone bill of 300 francs too late."
+   },
+   "collection_costs": {
+    "value": "claimed",
+    "evidence": "a collection agency is demanding another 200 francs in fees"
+   },
+   "claim_amount": {
+    "value": 200,
+    "evidence": "a collection agency is demanding another 200 francs in fees"
+   }
+  },
+  "wants_human": null,
+  "user_questions": [
+   {
+    "topic": "own_case",
+    "evidence": "Do I really have to pay that?"
+   }
+  ],
+  "uncovered": null,
+  "contradictions": []
+ },
+ "ef54bb6b8feb8576bb3b4393bc4b0be1e0c012ca20893eb70881b082ca035af4": {
+  "segments": [
+   {
+    "type": "talk",
+    "text": "You paid the phone bill late, and the collection agency is now asking for CHF 200 in fees. Let’s look at what happened before that claim."
+   },
+   {
+    "type": "legal",
+    "text": "For a bill that is due, a reminder can put someone in default. Default can also arise if a specific payment date was agreed in advance.",
+    "source_id": "or-102",
+    "quote": "1 Ist eine Verbindlichkeit fällig, so wird der Schuldner durch Mahnung des Gläubigers in Verzug gesetzt.\n2 Wurde für die Erfüllung ein bestimmter Verfalltag verabredet, oder ergibt sich ein solcher infolge einer vorbehaltenen und gehörig vorgenommenen Kündigung, so kommt der Schuldner schon mit Ablauf dieses Tages in Verzug."
+   },
+   {
+    "type": "question",
+    "text": "What happened before the collection agency claimed the extra charges?"
+   }
+  ]
+ },
+ "a525d8e2ec3a928e24c3cd72815d403f02b72a6a51588ddd0631d2ede36ed88a": {
+  "results": [
+   {
+    "index": 0,
+    "legal_claim": false
+   },
+   {
+    "index": 1,
+    "supported": true,
+    "relevant": true
+   },
+   {
+    "index": 2,
+    "legal_claim": false
+   }
+  ]
+ },
+ "cb71fdc0971412b5ca1981b5c99ca5ad84a323206fb168409085c718ce7a72e8": {
+  "language": "de",
+  "areas": [
+   {
+    "area": "debt_collection",
+    "evidence": "darauf steht Zahlungsbefehl. Verlangt werden 500 Franken für meine Handyrechnung und dazu 140 Franken Inkassokosten."
+   }
+  ],
+  "facts": {
+   "document_received_date": {
+    "value": "2026-11-09",
+    "evidence": "Der Pöstler hat mir am 09.11.2026 ein Schreiben gebracht, darauf steht Zahlungsbefehl."
+   },
+   "collection_costs": {
+    "value": "claimed",
+    "evidence": "140 Franken Inkassokosten"
+   },
+   "interest_charge": {
+    "value": "none",
+    "evidence": "Verlangt werden 500 Franken für meine Handyrechnung und dazu 140 Franken Inkassokosten."
+   },
+   "reminder_fee": {
+    "value": "none",
+    "evidence": "Verlangt werden 500 Franken für meine Handyrechnung und dazu 140 Franken Inkassokosten."
+   }
+  },
+  "wants_human": null,
+  "user_questions": [],
+  "uncovered": null,
+  "contradictions": []
+ },
+ "84d2fe12914b1325f9e10923a5e81daea2ba59da89d5144f5c5ed5e82d6383c7": {
+  "segments": [
+   {
+    "type": "legal",
+    "text": "Bei einem amtlichen Zahlungsbefehl können Sie auch nur einen Teil der Forderung bestreiten. Der bestrittene Betrag ist dabei genau anzugeben.",
+    "source_id": "schkg-74",
+    "quote": "Bestreitet der Betriebene die Forderung nur teilweise, so hat er den bestrittenen Betrag genau anzugeben; unterlässt er dies, so gilt die ganze Forderung als bestritten."
+   },
+   {
+    "type": "question",
+    "text": "Von wem stammt das Schreiben mit den CHF 140 Inkassokosten?"
+   }
+  ]
+ },
+ "a1ada2f9e90581daea5dcc8eb8ac529f92d82bb48c7611b6d1b1bd5659f88cfe": {
+  "results": [
+   {
+    "index": 0,
+    "supported": true,
+    "relevant": true
+   },
+   {
+    "index": 1,
+    "legal_claim": false
+   }
+  ]
+ },
+ "01c9a932b0a99ed2fa739343235f5b0d4cf550ca7c6e15851015b17faea5e4f4": {
+  "language": "en",
+  "areas": [
+   {
+    "area": "debt_collection",
+    "evidence": "It demands 500 francs for my phone bill plus 140 francs in collection costs."
+   }
+  ],
+  "facts": {
+   "document_received_date": {
+    "value": "2026-11-09",
+    "evidence": "On 09.11.2026 the postman brought me a document, it says payment order (Zahlungsbefehl)."
+   },
+   "interest_charge": {
+    "value": "none",
+    "evidence": "It demands 500 francs for my phone bill plus 140 francs in collection costs."
+   },
+   "reminder_fee": {
+    "value": "none",
+    "evidence": "It demands 500 francs for my phone bill plus 140 francs in collection costs."
+   },
+   "collection_costs": {
+    "value": "claimed",
+    "evidence": "140 francs in collection costs"
+   }
+  },
+  "wants_human": null,
+  "user_questions": [],
+  "uncovered": null,
+  "contradictions": []
+ },
+ "2a0c22dbb7c8fefca19c950da89f4b16de99fb43b40b8e038a2d1597e9f4d769": {
+  "segments": [
+   {
+    "type": "talk",
+    "text": "I understand the document asks for CHF 140 in collection costs on top of your phone bill. Let’s first check who sent it."
+   },
+   {
+    "type": "legal",
+    "text": "An official payment order, called a Zahlungsbefehl, is issued by the debt enforcement office after it receives an enforcement request.",
+    "source_id": "schkg-69",
+    "quote": "Nach Empfang des Betreibungsbegehrens erlässt das Betreibungsamt den Zahlungsbefehl."
+   },
+   {
+    "type": "question",
+    "text": "Who sent the document asking for the additional charges?"
+   }
+  ]
+ },
+ "29b840bc8c49d16b54080930dc015faedfcb18e8a03ca4c6d86c1788c245be65": {
+  "results": [
+   {
+    "index": 0,
+    "legal_claim": false
+   },
+   {
+    "index": 1,
+    "supported": true,
+    "relevant": true
+   },
+   {
+    "index": 2,
+    "legal_claim": false
+   }
+  ]
+ },
+ "f1d8a5a5662bf289833c0f13e975ccfa66ef7b66e730f456ea22467ab96702cc": {
+  "language": "de",
+  "areas": [
+   {
+    "area": "debt_collection",
+    "evidence": "Ein Inkassobüro verlangt 900 Franken für ein Fitnessabo"
+   }
+  ],
+  "facts": {
+   "document_type": {
+    "value": "reminder",
+    "evidence": "Ein Inkassobüro verlangt 900 Franken"
+   },
+   "claim_amount": {
+    "value": 900,
+    "evidence": "900 Franken"
+   }
+  },
+  "wants_human": null,
+  "user_questions": [
+   {
+    "topic": "own_case",
+    "evidence": "Muss ich das Abo trotzdem bezahlen?"
+   }
+  ],
+  "uncovered": {
+   "topic": "Zahlungspflicht für ein nicht gekündigtes Fitnessabo",
+   "evidence": "Ich habe aber vergessen zu kündigen. Muss ich das Abo trotzdem bezahlen?"
+  },
+  "contradictions": []
+ },
+ "e38fad49fab9239b9a432d2f1dacb998946fefec48748e0d95e079981f55d0c5": {
+  "summary": "Die Person berichtet, dass ein Inkassobüro 900 Franken für ein Fitnessabo verlangt, das sie nicht mehr nutzt. Sie hat vergessen, das Abo zu kündigen. Sie möchte wissen, ob sie es trotzdem bezahlen muss. Offen ist die Frage, ob die geltend gemachte Zahlungspflicht trotz Nichtnutzung und unterbliebener Kündigung besteht."
+ },
+ "40559450203b262e33ca05073cb760184ba1ec1838b1003cf3781f3ffa6c2eb9": {
+  "language": "en",
+  "areas": [
+   {
+    "area": "debt_collection",
+    "evidence": "A collection agency demands 900 francs for a gym membership"
+   }
+  ],
+  "facts": {
+   "document_type": {
+    "value": "reminder",
+    "evidence": "A collection agency demands 900 francs"
+   },
+   "claim_amount": {
+    "value": 900,
+    "evidence": "demands 900 francs"
+   }
+  },
+  "wants_human": null,
+  "user_questions": [
+   {
+    "topic": "own_case",
+    "evidence": "Do I still have to pay for the membership?"
+   }
+  ],
+  "uncovered": {
+   "topic": "Gym membership cancellation",
+   "evidence": "I forgot to cancel, though. Do I still have to pay for the membership?"
+  },
+  "contradictions": []
+ },
+ "445d4ee8b58572f3201a1402975f4ce98b613a7ad511628677696854796f385f": {
+  "summary": "Ein Inkassobüro fordert von der Person 900 Franken für eine Mitgliedschaft im Fitnessstudio, die sie nicht mehr nutzt. Die Person hat vergessen, die Mitgliedschaft zu kündigen. Sie möchte wissen, ob sie trotzdem für die Mitgliedschaft zahlen muss. Offen ist damit die Frage nach ihrer Zahlungspflicht für die nicht gekündigte Mitgliedschaft."
+ },
+ "6f9e08b27cb7fac066dc0f8cad154bb38ba6ca2c789ab1cfd242edaa6334b2b4": {
+  "language": "de",
+  "areas": [
+   {
+    "area": "inheritance_debt",
+    "evidence": "Was muss ich tun, damit ich die Schulden nicht erbe?"
+   }
+  ],
+  "facts": {
+   "relationship": {
+    "value": "Kind",
+    "evidence": "Meine Mutter ist gestorben"
+   },
+   "heir_basis": {
+    "value": "statutory",
+    "evidence": "Meine Mutter ist gestorben, ich habe es am 28.10.2026 erfahren. Ein Testament gibt es nicht."
+   },
+   "date_learned_of_death": {
+    "value": "2026-10-28",
+    "evidence": "ich habe es am 28.10.2026 erfahren"
+   },
+   "estate_finances": {
+    "value": "overindebted",
+    "evidence": "Sie hatte viele Schulden und kaum Vermögen."
+   }
+  },
+  "wants_human": null,
+  "user_questions": [
+   {
+    "topic": "own_case",
+    "evidence": "Was muss ich tun, damit ich die Schulden nicht erbe?"
+   }
+  ],
+  "uncovered": null,
+  "contradictions": []
+ },
+ "cc3488c543e68d714846762858b64aac4438910ca6f459cf243dbbcb91708306": {
+  "segments": [
+   {
+    "type": "talk",
+    "text": "Es tut mir leid, dass Ihre Mutter gestorben ist. Wir schauen gemeinsam an, was für Sie wichtig ist."
+   },
+   {
+    "type": "legal",
+    "text": "Eine Erbschaft kann bei der zuständigen Behörde mündlich oder schriftlich ausgeschlagen werden. Die Erklärung muss unbedingt und vorbehaltlos sein.",
+    "source_id": "zgb-570",
+    "quote": "Die Ausschlagung ist von dem Erben bei der zuständigen Behörde mündlich oder schriftlich zu erklären.\n2 Sie muss unbedingt und vorbehaltlos geschehen."
+   },
+   {
+    "type": "question",
+    "text": "Haben Sie seit dem Tod Ihrer Mutter etwas mit ihrem Nachlass gemacht?"
+   }
+  ]
+ },
+ "111a59a0fe999fd32a2610d12f3bcb4ca098b8522d06ae758ef1c11429cdfe95": {
+  "results": [
+   {
+    "index": 0,
+    "legal_claim": false
+   },
+   {
+    "index": 1,
+    "supported": true,
+    "relevant": true
+   },
+   {
+    "index": 2,
+    "legal_claim": false
+   }
+  ]
+ },
+ "880b110ce8ddb42f7a43bb4f1408c088e56b850758b4ed3d388d2ef58c862696": {
+  "language": "en",
+  "areas": [
+   {
+    "area": "inheritance_debt",
+    "evidence": "My mother has died; I learned of it on 28.10.2026. There is no will. She had many debts and hardly any assets."
+   }
+  ],
+  "facts": {
+   "date_learned_of_death": {
+    "value": "2026-10-28",
+    "evidence": "I learned of it on 28.10.2026"
+   },
+   "heir_basis": {
+    "value": "statutory",
+    "evidence": "My mother has died; I learned of it on 28.10.2026. There is no will."
+   },
+   "relationship": {
+    "value": "child",
+    "evidence": "My mother has died"
+   }
+  },
+  "wants_human": null,
+  "user_questions": [
+   {
+    "topic": "own_case",
+    "evidence": "What do I have to do so that I do not inherit the debts?"
+   }
+  ],
+  "uncovered": null,
+  "contradictions": []
+ },
+ "e0781e01e753eb8e0581f2414881f23e04fd684349797b2cf0fdd16aa4bf75ea": {
+  "segments": [
+   {
+    "type": "talk",
+    "text": "I am sorry about your mother. Let’s look at the steps for declining the inheritance."
+   },
+   {
+    "type": "legal",
+    "text": "An heir can declare a disclaimer to the competent authority, orally or in writing. The declaration must be unconditional and without reservations.",
+    "source_id": "zgb-570",
+    "quote": "Die Ausschlagung ist von dem Erben bei der zuständigen Behörde mündlich oder schriftlich zu erklären.\n2 Sie muss unbedingt und vorbehaltlos geschehen."
+   },
+   {
+    "type": "question",
+    "text": "Have you done anything with your mother’s estate since her death?"
+   }
+  ]
+ },
+ "b290b0fb3c46761812fca68d19a2945143bad25ba421fe7fee4cb4554c0a0224": {
+  "results": [
+   {
+    "index": 0,
+    "legal_claim": false
+   },
+   {
+    "index": 1,
+    "supported": true,
+    "relevant": true
+   },
+   {
+    "index": 2,
+    "legal_claim": false
+   }
+  ]
+ },
+ "cca293aa312aed4615403219e8b8542e657bd0298db95ccee6e2d7ae5c2ca500": {
+  "language": "de",
+  "areas": [
+   {
+    "area": "credit_record",
+    "evidence": "Ich habe eine Wohnung nicht bekommen, weil auf meinem Betreibungsauszug eine Betreibung steht."
+   }
+  ],
+  "facts": {
+   "register_entry": {
+    "value": "enforcement",
+    "evidence": "auf meinem Betreibungsauszug eine Betreibung steht"
+   },
+   "register_payment": {
+    "value": "not_paid",
+    "evidence": "ich habe sie nie bezahlt"
+   },
+   "register_objection": {
+    "value": "yes",
+    "evidence": "ich habe damals Rechtsvorschlag erhoben"
+   },
+   "register_service_date": {
+    "value": "2026-05-12",
+    "evidence": "Der Zahlungsbefehl wurde mir am 12.05.2026 zugestellt"
+   }
+  },
+  "wants_human": null,
+  "user_questions": [
+   {
+    "topic": "own_case",
+    "evidence": "Wie bekomme ich den Eintrag weg?"
+   }
+  ],
+  "uncovered": null,
+  "contradictions": []
+ },
+ "d2cf5beb669293607daee57027f21082bb12d6448058b279992ebb50d36c7393": {
+  "segments": [
+   {
+    "type": "talk",
+    "text": "Das ist belastend, gerade weil Sie die Wohnung deswegen nicht bekommen haben. Ich schaue mit Ihnen an, was für den Eintrag möglich ist."
+   },
+   {
+    "type": "legal",
+    "text": "Unter bestimmten Voraussetzungen können Sie beim Betreibungsamt ein Gesuch stellen, damit die Betreibung Dritten nicht mehr bekannt gegeben wird. Dabei ist auch wichtig, ob der Gläubiger ein Verfahren zur Beseitigung Ihres Rechtsvorschlags eingeleitet hat.",
+    "source_id": "schkg-8a",
+    "quote": "der Schuldner Rechtsvorschlag erhoben und nach Ablauf einer Frist von drei Monaten seit der Zustellung des Zahlungsbefehls und vor Erlöschen des Einsichtsrechts Dritter ein entsprechendes Gesuch gestellt hat, sofern der Gläubiger nach Ablauf einer vom Betreibungsamt angesetzten Frist von 20 Tagen den Nachweis nicht erbringt, dass rechtzeitig ein Verfahren zur Beseitigung des Rechtsvorschlags (Art. 79–84) eingeleitet wurde; wird dieser Nachweis nachträglich erbracht oder wird die Betreibung fortgesetzt, so wird sie Dritten wieder zur Kenntnis gebracht, es sei denn, der Schuldner weist nach, dass ein Begehren des Gläubigers um Beseitigung des Rechtsvorschlags definitiv nicht gutgeheissen wurde."
+   },
+   {
+    "type": "question",
+    "text": "Wissen Sie, ob der Gläubiger nach Ihrem Rechtsvorschlag ein Gericht eingeschaltet hat?"
+   }
+  ]
+ },
+ "3c2aa499dbdc86ca8a9e30081ca74b245df817691fa8892ed6056b9ce1f36f0b": {
+  "results": [
+   {
+    "index": 0,
+    "legal_claim": false
+   },
+   {
+    "index": 1,
+    "supported": true,
+    "relevant": true
+   },
+   {
+    "index": 2,
+    "legal_claim": false
+   }
+  ]
+ },
+ "c385d0f457c9e4099edf062cb39e9bba88365f85da815a88c401be954c1c17aa": {
+  "language": "en",
+  "areas": [
+   {
+    "area": "credit_record",
+    "evidence": "I did not get a flat because there is an enforcement on my debt register extract."
+   }
+  ],
+  "facts": {
+   "register_entry": {
+    "value": "enforcement",
+    "evidence": "there is an enforcement on my debt register extract"
+   },
+   "register_payment": {
+    "value": "not_paid",
+    "evidence": "I never paid it"
+   },
+   "register_objection": {
+    "value": "yes",
+    "evidence": "I raised an objection at the time"
+   },
+   "register_service_date": {
+    "value": "2026-05-12",
+    "evidence": "The payment order was served on me on 12.05.2026"
+   }
+  },
+  "wants_human": null,
+  "user_questions": [
+   {
+    "topic": "own_case",
+    "evidence": "How do I get rid of the entry?"
+   }
+  ],
+  "uncovered": null,
+  "contradictions": []
+ },
+ "55ec7aa7ca4e523c023ed7d7fda957fbab305e09913dd2aedae418724019840b": {
+  "segments": [
+   {
+    "type": "talk",
+    "text": "I’m sorry the entry affected your flat application. Let’s check what options may be available."
+   },
+   {
+    "type": "legal",
+    "text": "After an objection, a person may be able to ask the debt enforcement office not to disclose the entry to third parties. This depends, among other things, on whether the creditor started proceedings to remove the objection.",
+    "source_id": "schkg-8a",
+    "quote": "der Schuldner Rechtsvorschlag erhoben und nach Ablauf einer Frist von drei Monaten seit der Zustellung des Zahlungsbefehls und vor Erlöschen des Einsichtsrechts Dritter ein entsprechendes Gesuch gestellt hat, sofern der Gläubiger nach Ablauf einer vom Betreibungsamt angesetzten Frist von 20 Tagen den Nachweis nicht erbringt, dass rechtzeitig ein Verfahren zur Beseitigung des Rechtsvorschlags (Art. 79–84) eingeleitet wurde"
+   },
+   {
+    "type": "question",
+    "text": "After you raised your objection, did the creditor go to court?"
+   }
+  ]
+ },
+ "ade3a09471aa46d3c842ae1d0639dcdc149094cdaee3e51d6a32c561748a3ab0": {
+  "results": [
+   {
+    "index": 0,
+    "supported": false,
+    "relevant": true
+   },
+   {
+    "index": 1,
+    "legal_claim": false
+   }
+  ]
+ },
+ "fabf283cdd9200db8467ebd06c4291aaf4fae2029eca6a5bbce62bde9f4ae12e": {
+  "language": "de",
+  "areas": [
+   {
+    "area": "inheritance_debt",
+    "evidence": "Jetzt melden sich Gläubiger wegen seiner Schulden."
+   }
+  ],
+  "facts": {
+   "heir_basis": {
+    "value": "statutory",
+    "evidence": "Mein Vater ist gestorben, ich habe es am 21.09.2026 erfahren. Ein Testament gibt es nicht."
+   },
+   "date_learned_of_death": {
+    "value": "2026-09-21",
+    "evidence": "ich habe es am 21.09.2026 erfahren"
+   },
+   "relationship": {
+    "value": "Kind",
+    "evidence": "Mein Vater ist gestorben"
+   },
+   "estate_actions": {
+    "value": "took",
+    "evidence": "Ich habe sein Auto verkauft, um die Beerdigung zu bezahlen."
+   }
+  },
+  "wants_human": null,
+  "user_questions": [
+   {
+    "topic": "own_case",
+    "evidence": "Muss ich jetzt seine Schulden zahlen?"
+   }
+  ],
+  "uncovered": null,
+  "contradictions": []
+ },
+ "5b41f122a643d916cdad24186f994b453e59e6d802601e6da1a9b1d87ad85701": {
+  "segments": [
+   {
+    "type": "talk",
+    "text": "Es tut mir leid, dass Ihr Vater gestorben ist. Ich habe verstanden, dass Sie sein Auto verkauft haben, um die Beerdigung zu bezahlen."
+   },
+   {
+    "type": "legal",
+    "text": "Wer sich in einen Nachlass einmischt, kann unter Umständen das Recht verlieren, die Erbschaft auszuschlagen. Ob eine Handlung so weit geht, hängt vom Einzelfall ab und sollte rechtlich geprüft werden.",
+    "source_id": "zgb-571",
+    "quote": "Hat ein Erbe sich vor Ablauf der Frist in die Angelegenheiten der Erbschaft eingemischt oder Handlungen vorgenommen, die nicht durch die blosse Verwaltung der Erbschaft und durch den Fortgang der Geschäfte des Erblassers gefordert waren, oder hat er Erbschaftssachen sich angeeignet oder verheimlicht, so kann er die Erbschaft nicht mehr ausschlagen."
+   },
+   {
+    "type": "question",
+    "text": "Habe ich richtig verstanden, dass Sie seit dem Tod Ihres Vaters etwas mit dem Nachlass gemacht haben, nämlich sein Auto verkauft haben?"
+   }
+  ]
+ },
+ "7145beb6ef6e30c9321b62aa278484ca324ea3db50ce0916274d1aca237f98e2": {
+  "results": [
+   {
+    "index": 0,
+    "legal_claim": false
+   },
+   {
+    "index": 1,
+    "supported": true,
+    "relevant": true
+   },
+   {
+    "index": 2,
+    "legal_claim": false
+   }
+  ]
+ },
+ "8a895e3b167ec643213e4fd2b272a167b278f52226f900ddb0eb0e0210d2140f": {
+  "summary": "Die Person erfuhr am 21.09.2026 vom Tod ihres Vaters; ein Testament gibt es nicht. Gläubiger melden sich wegen seiner Schulden, und die Person hat sein Auto verkauft, um die Beerdigung zu bezahlen. Sie möchte wissen, ob sie seine Schulden zahlen muss. Offen ist dabei insbesondere, welche Bedeutung der Verkauf des Autos für diese Frage hat."
+ },
+ "cf88da670dc2aee7941e5aa84089606233954a3a95ca31856109e7eb64e25845": {
+  "language": "en",
+  "areas": [
+   {
+    "area": "inheritance_debt",
+    "evidence": "My father has died; I learned of it on 21.09.2026. There is no will. Now creditors are contacting me about his debts."
+   }
+  ],
+  "facts": {
+   "heir_basis": {
+    "value": "statutory",
+    "evidence": "My father has died; I learned of it on 21.09.2026. There is no will."
+   },
+   "date_learned_of_death": {
+    "value": "2026-09-21",
+    "evidence": "I learned of it on 21.09.2026"
+   },
+   "relationship": {
+    "value": "child",
+    "evidence": "My father has died"
+   },
+   "estate_actions": {
+    "value": "took",
+    "evidence": "I sold his car to pay for the funeral."
+   }
+  },
+  "wants_human": null,
+  "user_questions": [
+   {
+    "topic": "own_case",
+    "evidence": "Do I have to pay his debts now?"
+   }
+  ],
+  "uncovered": null,
+  "contradictions": []
+ },
+ "038cc810691d5b192fed8738a5568c0dc033f492bc8c11425250cb2912e50b3f": {
+  "segments": [
+   {
+    "type": "talk",
+    "text": "I am sorry about your father. I understand that you sold his car to pay for the funeral."
+   },
+   {
+    "type": "legal",
+    "text": "In general, a deceased person’s debts become the personal debts of their heirs, subject to legal exceptions.",
+    "source_id": "zgb-560",
+    "quote": "Mit Vorbehalt der gesetzlichen Ausnahmen gehen die Forderungen, das Eigentum, die beschränkten dinglichen Rechte und der Besitz des Erblassers ohne weiteres auf sie über, und die Schulden des Erblassers werden zu persönlichen Schulden der Erben."
+   },
+   {
+    "type": "legal",
+    "text": "Selling something from an estate can affect an heir’s right to decline the inheritance. Whether it does depends on the circumstances, which a legal adviser can assess.",
+    "source_id": "zgb-571",
+    "quote": "Hat ein Erbe sich vor Ablauf der Frist in die Angelegenheiten der Erbschaft eingemischt oder Handlungen vorgenommen, die nicht durch die blosse Verwaltung der Erbschaft und durch den Fortgang der Geschäfte des Erblassers gefordert waren, oder hat er Erbschaftssachen sich angeeignet oder verheimlicht, so kann er die Erbschaft nicht mehr ausschlagen."
+   },
+   {
+    "type": "question",
+    "text": "Is that right, and have you done anything else with your father’s estate?"
+   }
+  ]
+ },
+ "0168595900effcd3e3cc42ba7a68eaff55d3f29a4b83f6f82bb3d986d3e94b99": {
+  "results": [
+   {
+    "index": 0,
+    "legal_claim": false
+   },
+   {
+    "index": 1,
+    "supported": true,
+    "relevant": true
+   },
+   {
+    "index": 2,
+    "supported": true,
+    "relevant": true
+   },
+   {
+    "index": 3,
+    "legal_claim": false
+   }
+  ]
+ },
+ "ba55d9f8e15ce69a1255e745e7de6c6ec9f659aca36bacd770a1440c7e75af5f": {
+  "summary": "Der Vater der Person ist verstorben; davon erfuhr sie am 21.09.2026. Es gibt kein Testament, und Gläubiger wenden sich wegen seiner Schulden an sie. Die Person verkaufte das Auto des Vaters, um die Beerdigung zu bezahlen. Sie bejahte zudem eine Sammeloption zu verschiedenen Handlungen im Umgang mit dem Nachlass, ohne diese näher zu spezifizieren. Sie möchte wissen, ob sie nun für die Schulden ihres Vaters aufkommen muss."
+ }
+}

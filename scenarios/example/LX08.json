@@ -1,0 +1,15 @@
+{
+  "id": "LX08",
+  "set": "dev",
+  "language": "en",
+  "today": "2026-11-11",
+  "consent_distress_screening": false,
+  "opening_message": "My father died in Winterthur on 25 October 2026; I was told that day. I am his son. I have not filed an inheritance disclaimer and have not moved, sold or paid for anything using his estate. We found several invoices among his papers. Can you explain the usual options before I choose?",
+  "hidden_facts": "Statutory child of the deceased; knowledge of death on 25 October. No formal disclaimer filed and no dealing with estate assets. Several creditors may exist, but no personal liability has been adjudicated.",
+  "gold": {
+    "route": "PROCEED",
+    "deadline_flagged": false,
+    "must_ask": [],
+    "justification": "The three inheritance-critical facts are present and the conservative ordinary period is not yet close. The answer can describe the general choices, not recommend acceptance or compute a definitive legal last day."
+  }
+}

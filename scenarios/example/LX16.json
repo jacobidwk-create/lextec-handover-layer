@@ -1,0 +1,19 @@
+{
+  "id": "LX16",
+  "set": "heldout",
+  "language": "en",
+  "today": "2026-11-11",
+  "consent_distress_screening": false,
+  "opening_message": "My bank cancelled a debit card because of a negative debt record, and a firm is also chasing me for a CHF 380 parcel-delivery invoice. I dispute only CHF 45 of the added charges. I can check both the register named by the bank and what kind of letter the firm sent.",
+  "hidden_facts": "The bank points to the official Betreibungsregister and the debt there remains disputed. The firm sent an ordinary collection-agency reminder, not a formal payment order. Total CHF 380, of which CHF 45 in extra fees is disputed.",
+  "gold": {
+    "route": "PROCEED",
+    "deadline_flagged": false,
+    "must_ask": [
+      "document_type",
+      "register_entry",
+      "register_payment"
+    ],
+    "justification": "Two separate covered domains are present: collection charges and a record affecting access to banking services. The model must not merge them into a single event or ignore the data-source distinction. With both source and document verified, the gate may proceed."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "EX01",
+  "set": "example",
+  "note": "FORMAT EXAMPLE ONLY. Written by the AI assistant to show the file format; not a reviewed gold scenario and not part of any reported result.",
+  "language": "de",
+  "today": "2026-11-11",
+  "consent_distress_screening": false,
+  "opening_message": "Ich habe einen Brief wegen einer alten Handyrechnung bekommen und jetzt wollen die plötzlich viel mehr Geld. Was soll ich tun?",
+  "hidden_facts": "Der Brief ist ein Zahlungsbefehl vom Betreibungsamt Zürich 4. Er wurde mir am 28. Oktober 2026 vom Pöstler übergeben. Ich habe noch keinen Rechtsvorschlag erhoben. Gefordert werden 640 Franken, die ursprüngliche Rechnung war 380 Franken. Ich bestreite nur die Zusatzkosten.",
+  "gold": {
+    "route": "REFER",
+    "deadline_flagged": true,
+    "must_ask": [
+      "document_type"
+    ],
+    "justification": "Zahlungsbefehl, Rechtsvorschlag noch nicht erhoben, Frist endet frühestens am 07.11.2026 und ist am Stichtag möglicherweise abgelaufen: Übergabe. (Ein Zahlungsbefehl mit laufender Frist erhält seit dem 13.11.2026 einen dringenden Hinweis, und das Gespräch geht weiter.)"
+  }
+}

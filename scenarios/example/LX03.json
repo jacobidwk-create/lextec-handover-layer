@@ -1,0 +1,15 @@
+{
+  "id": "LX03",
+  "set": "heldout",
+  "language": "de",
+  "today": "2026-11-11",
+  "consent_distress_screening": false,
+  "opening_message": "Meine Tante hat uns Schulden hinterlassen. Ich bin ihr gesetzlicher Erbe und habe am 6. Oktober 2026 von ihrem Tod erfahren. Am 20. Oktober habe ich die Erbschaft bei der zuständigen Behörde ausgeschlagen. Ich habe weder Geld noch Gegenstände aus dem Nachlass an mich genommen. Was bedeutet die Ausschlagung grundsätzlich?",
+  "hidden_facts": "Gesetzlicher Erbe. Kenntnis vom Todesfall am 6. Oktober 2026. Formelle Ausschlagung am 20. Oktober bei der zuständigen Behörde. Keine Handlungen am Nachlass.",
+  "gold": {
+    "route": "PROCEED",
+    "deadline_flagged": false,
+    "must_ask": [],
+    "justification": "Knowledge date, formal disclaimer and non-interference are all established; the action was taken within the ordinary three-month screening window. General information on disclaimer is possible, without certifying the validity or consequences of the individual declaration."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "LX05",
+  "set": "dev",
+  "language": "de",
+  "today": "2026-11-11",
+  "consent_distress_screening": false,
+  "opening_message": "Wegen einer Veloreparatur verlangen sie jetzt CHF 275. Die Reparatur selbst kostet laut Rechnung CHF 210; die zusätzlichen CHF 65 bestreite ich. Ich habe einen Brief mit einer Zahlungsaufforderung, weiss aber nicht, ob es nur eine Mahnung oder schon etwas Amtliches ist. Er liegt vor mir.",
+  "hidden_facts": "Das Schreiben trägt den Titel «Mahnung» und kommt von der Werkstatt selbst. Es ist kein Zahlungsbefehl. Gesamtbetrag CHF 275, bestritten sind die CHF 65 Zusatzkosten.",
+  "gold": {
+    "route": "PROCEED",
+    "deadline_flagged": false,
+    "must_ask": [
+      "document_type"
+    ],
+    "justification": "The letter type has procedural consequences and must not be inferred from the vague term payment request. Once the user identifies it as a private reminder, no critical gap remains and R4 has no trigger."
+  }
+}
