@@ -2,6 +2,8 @@
 
 Legal and technical documentation of the group project. Status: 15 November 2026.
 
+Repository: https://github.com/jacobidwk-create/lextec-handover-layer
+
 This file is the complete documentation in short form. Two more files give detail:
 
 - `full_report.md` is the long form: the reason for each design decision, the open points and the dated progress log. Comments in the code cite its section numbers.
